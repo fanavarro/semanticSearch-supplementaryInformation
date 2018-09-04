@@ -1,0 +1,24 @@
+@prefix ont: <http://www.example.org/ontology#> .
+@prefix res: <http://www.example.org/resource#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+res:Eighty_Days rdf:type ont:Book .
+res:Eighty_Days ont:hasTitle "Around the World in Eighty Days" .
+res:The_Mysterious_Island rdf:type ont:Book .
+res:The_Mysterious_Island ont:hasTitle "The Mysterious Island" .
+res:Dorian_Gray rdf:type ont:Book .
+res:Dorian_Gray ont:hasTitle "The Picture of Dorian Gray" .
+res:Jules_Verne rdf:type ont:Writer .
+res:Jules_Verne ont:hasName "Jules Verne" .
+res:Jules_Verne ont:writes res:Eighty_Days .
+res:Jules_Verne ont:writes res:The_Mysterious_Island .
+res:Oscar_Wilde rdf:type ont:Writer .
+res:Oscar_Wilde ont:hasName "Oscar Wilde" .
+res:Oscar_Wilde ont:writes res:Dorian_Gray .
+res:Alice rdf:type ont:Reader .
+res:Alice ont:hasName "Alice" .
+res:Alice ont:reads res:Dorian_Gray .
+res:Bob rdf:type ont:Reader .
+res:Bob ont:hasName "Bob" .
+res:Bob ont:reads res:Eighty_Days .

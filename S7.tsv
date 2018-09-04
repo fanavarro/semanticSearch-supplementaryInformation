@@ -1,0 +1,1289 @@
+Method	Index	Dataset	ID	Keywords	Question	Skip	Result	Time
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	1	cosmonauts	Give me all cosmonauts.	no	Wrong answer	2709
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	10	Ganges, start, country	In which country does the Ganges start?	no	Wrong answer	931
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	102	John F. Kennedy, vice president	Who was John F. Kennedy's vice president?	no	Correct answer	5320
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	103	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	1015
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	104	Free University, Amsterdam, students	How many students does the Free University in Amsterdam have?	no	Wrong answer	4381
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	106	professional, skateboarder, Sweden	Give me all professional skateboarders from Sweden.	no	Wrong answer	8259
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	109	bandleader, play, trumpet	Give me a list of all bandleaders that play trumpet.	no	Wrong answer	855
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	11	country, cave, more than ten	Which countries have more than ten caves?	no	Wrong answer	577
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	200	produce, Orangina	Who produces Orangina?	no	Wrong answer	3890
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	114	member, Prodigy	Give me all members of Prodigy.	no	Wrong answer	556
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	118	Mars rover Curiosity, main discoveries	What were the main discoveries of the Mars rover Curiosity?	no	Wrong answer	570
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	119	people, born, Vienna, die, Berlin	Give me all people that were born in Vienna and died in Berlin.	no	Wrong answer	9833
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	120	tall, Michael Jordan	How tall is Michael Jordan?	no	Wrong answer	1578
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	121	capital, Canada	What is the capital of Canada?	no	Wrong answer	19096
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	128	movie, direct, Francis Ford Coppola	Give me all movies directed by Francis Ford Coppola.	no	Wrong answer	1232
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	129	actor, starring, movie, direct, William Shatner	Give me all actors starring in movies directed by William Shatner.	no	Wrong answer	3987
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	130	birth name, Angela Merkel	What is the birth name of Angela Merkel?	no	Wrong answer	565
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	133	nonprofit organization, Australia	Give me all Australian nonprofit organizations.	no	Wrong answer	575
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	134	Lawrence of Arabia, military conflict	In which military conflicts did Lawrence of Arabia participate?	no	Wrong answer	16080
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	135	Minecraft, develop	Who developed Minecraft?	no	Partial answer	839
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	138	Maribor, inhabitants	How many inhabitants does Maribor have?	no	Wrong answer	956
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	139	company, Munich	Give me all companies in Munich.	no	Wrong answer	6860
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	14	Amazon Eve, tall	How tall is Amazon Eve?	no	Correct answer	1088
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	140	game, GMT	List all games by GMT.	no	Wrong answer	838
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	141	Intel, founded	Who founded Intel?	no	Correct answer	828
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	144	Weser, flow through, city	Which cities does the Weser flow through?	no	Wrong answer	1090
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	145	Rhine, country	Which countries are connected by the Rhine?	no	Partial answer	1122
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	146	professional surfer, born, Australia	Which professional surfers were born in Australia?	no	Wrong answer	1102
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	148	MI6, headquarters, city, UK	In which UK city are the headquarters of the MI6?	no	Wrong answer	594
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	15	created, Goofy	Who created Goofy?	no	Wrong answer	567
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	151	islands, Japan	Give me all islands that belong to Japan.	no	Wrong answer	5943
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	157	astronaut, Apollo 14	Give me all Apollo 14 astronauts.	no	Wrong answer	841
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	163	movie, Denmark	Give me all Danish movies.	no	Wrong answer	12683
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	164	launch pad, operate, NASA	Give me all launch pads operated by NASA.	no	Wrong answer	1055
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	165	Cat Stevens, instrument	Which instruments does Cat Stevens play?	no	Wrong answer	1083
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	167	Juan Carlos I, wife, parents	Who are the parents of the wife of Juan Carlos I?	no	Wrong answer	570
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	168	Google, employees	How many employees does Google have?	no	Wrong answer	825
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	174	Michael Jackson, die	When did Michael Jackson die?	no	Correct answer	1330
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	175	chess players, British earl, die, same, place, born	Which Chess players died in the same place they were born in?	no	Wrong answer	6491
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	176	Margaret Thatcher, child	List the children of Margaret Thatcher.	no	Correct answer	840
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	18	museum, Scream, Munch	Which museum exhibits The Scream by Munch?	no	Wrong answer	559
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	181	book, Kerouac, publish, Viking Press	Which books by Kerouac were published by Viking Press?	no	Wrong answer	775
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	183	Mount Everest, high	How high is the Mount Everest?	no	Wrong answer	937
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	184	Batman, creator	Who created Batman?	no	Correct answer	1334
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	185	Australia, capital, people, live	How many people live in the capital of Australia?	no	Wrong answer	1594
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	186	Australia, largest city	What is the largest city in Australia?	no	Wrong answer	816
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	187	Harold and Maude, compose, music	Who composed the music for Harold and Maude?	no	Wrong answer	2008
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	189	Dutch queen Juliana, burried, city	In which city was the former Dutch queen Juliana buried?	no	Wrong answer	567
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	196	Ramones, B-sides	Give me all B-sides of the Ramones.	no	Wrong answer	554
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	198	Miffy, creator, country	Which country does the creator of Miffy come from?	no	Wrong answer	710
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	2	television show, Charmed, actor, birthday	Give me the birthdays of all actors of the television show Charmed.	no	Wrong answer	12806
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	20	IBM, employees	How many employees does IBM have?	no	Wrong answer	1345
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	22	Limerick Lake, country	In which country is the Limerick Lake?	no	Correct answer	1676
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	23	television show, create, John Cleese	Which television shows were created by John Cleese?	no	Wrong answer	569
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	25	film, directed, Garry Marshall, starring, Julia Roberts	In which films directed by Garry Marshall was Julia Roberts starring?	no	Wrong answer	23084
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	29	Douglas Hofstadter, award	Which awards did Douglas Hofstadter win?	no	Correct answer	988
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	3	Robert Kennedy, daughter, married	Who is the daughter of Robert Kennedy married to?	no	Wrong answer	809
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	31	Czech republic, currency	What is the currency of the Czech Republic?	no	Wrong answer	834
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	33	Berlin, area code	What is the area code of Berlin?	no	Wrong answer	570
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	35	Rolls-Royce, owner	Who is the owner of Rolls-Royce?	no	Wrong answer	588
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	36	Yenisei river, flow through, country	Through which countries does the Yenisei river flow?	no	Correct answer	1153
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	38	politician, married, German	Which politicians were married to a German?	no	Partial answer	557
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	39	Battle of Gettysburg	When was the Battle of Gettysburg?	no	Wrong answer	552
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	4	river, cross, Brooklyn Bridge	Which river does the Brooklyn Bridge cross?	no	Correct answer	655
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	42	Suriname, official language	What is the official language of Suriname?	no	Wrong answer	548
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	43	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	562
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	44	Brooklyn Bridge, design	Who designed the Brooklyn Bridge?	no	Wrong answer	564
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	48	Forbes, editor	Who is the editor of Forbes?	no	Correct answer	802
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	50	Bruce Carver, die	What did Bruce Carver die from?	no	Correct answer	822
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	53	Germany, federal chancellors	Give me all federal chancellors of Germany.	no	Wrong answer	6202
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	54	U.S. president, Lincoln, wife	Who was the wife of U.S. president Lincoln?	no	Wrong answer	4903
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	55	video game, World of Warcraft, develop	Who developed the video game World of Warcraft?	no	Wrong answer	557
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	57	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos.	no	Wrong answer	1291
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	6	city, John F. Kennedy, die	In which city did John F. Kennedy die?	no	Wrong answer	582
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	62	Wikipedia, created	Who created Wikipedia?	no	Wrong answer	572
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	63	actor, starring, Last Action Hero	Give me all actors starring in Last Action Hero.	no	Wrong answer	177911
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	64	organization, founded, California, develop, software	Which software has been developed by organizations founded in California?	no	Wrong answer	17051
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	68	actor, born, Germany	Which actors were born in Germany?	no	Wrong answer	5490
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	70	film, produce, Hal Roach	Give me all films produced by Hal Roach.	no	Wrong answer	5202
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	72	language, spoken, Estonia	Which languages are spoken in Estonia?	no	Partial answer	24488
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	73	own, Aldi	How many Aldi stores are there?	no	Wrong answer	837
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	75	United States, 16th president	Who was the 16th president of the United States?	no	Wrong answer	12860
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	78	book, written, Danielle Steel	Give me all books written by Danielle Steel.	no	Wrong answer	6554
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	79	airport, located, California, USA	Which airports are located in California, USA?	no	Wrong answer	445370
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	80	record label, Canadian, Grunge	Give me all Canadian Grunge record labels.	no	Wrong answer	863
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	82	GIMP, programming language	In which programming language is GIMP written?	no	Wrong answer	563
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	83	produce, film, starring, Natalie Portman	Who produced films starring Natalie Portman?	no	Wrong answer	26405
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	84	movie, Tom Cruise	Give me all movies with Tom Cruise.	no	Wrong answer	1172
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	85	film, play, Julia Roberts, Richard Gere	In which films did Julia Roberts as well as Richard Gere play?	no	Wrong answer	6635
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	87	wrote, book, The pillars of the Earth	Who wrote the book The Pillars of the Earth?	no	Wrong answer	1301
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	88	film, star, Leonardo DiCaprio	How many films did Leonardo DiCaprio star in?	no	Wrong answer	8125
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	89	Premier League, soccer club	Give me all soccer clubs in the Premier League.	no	Wrong answer	3644
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	90	Jack Wolfskin, founded	When was Jack Wolfskin founded?	no	Wrong answer	791
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	231	inhabitants, largest city, Canada	How many inhabitants does the largest city in Canada have?	no	Wrong answer	869
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	249	Beatles, record, first album, studio	In which studio did the Beatles record their first album?	no	Wrong answer	554
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	234	first, climb, mount Everest	Who was the first to climb Mount Everest?	no	Correct answer	788
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	242	University of Oxford, official color	What is the official color of the University of Oxford?	no	Wrong answer	1083
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	250	Michael Phelps, gold medals, 2008 Olpympics	How many gold medals did Michael Phelps win at the 2008 Olympics?	no	Wrong answer	827
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	235	artistic movement, painter, The Three Dancers	To which artistic movement did the painter of The Three Dancers belong?	no	Wrong answer	6835
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	211	animal, extinct	Give me all animals that are extinct.	no	Wrong answer	847
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	244	Lake Chiemsee, depth	How deep is Lake Chiemsee?	no	Wrong answer	563
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	240	Elvis Presley, grandchildren	Give me the grandchildren of Elvis Presley.	no	Wrong answer	820
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	221	birthplace, Bach	Where was Bach born?	no	Correct answer	805
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	232	countries, pay, West African CFA franc	In which countries can you pay using the West African CFA franc?	no	Wrong answer	972
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	214	cause of death, most frequent	What is the most frequent cause of death?	no	Wrong answer	558
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	241	writer, win, Nobel Prize in literature	Give me all writers that won the Nobel Prize in literature.	no	Wrong answer	726
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	201	taikonauts	Give me all taikonauts.	no	Wrong answer	806
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	212	how many, pages, War and Peace	How many pages does War and Peace have?	no	Wrong answer	827
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	208	rivers, flow, German lake	Which rivers flow into a German lake?	no	Wrong answer	705
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	246	rockets, launched, Baikonur	Which rockets were launched from Baikonur?	no	Wrong answer	565
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	236	pope, succeed, John Paul II	Which pope succeeded John Paul II?	no	Correct answer	553
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	205	Dutch, party	Give me all Dutch parties.	no	Wrong answer	561
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	243	Swedish, oceanographer	Give me all Swedish oceanographers.	no	Wrong answer	567
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	226	actors, born, Berlin	Give me all actors who were born in Berlin.	no	Wrong answer	4490
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	248	ICRO, stand for	What does ICRO stand for?	no	Wrong answer	541
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	213	carrot cake, ingredients	Which ingredients do I need for carrot cake?	no	Partial answer	556
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	215	Tom Cruise, married	Who has Tom Cruise been married to?	no	Correct answer	818
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	229	Australian, metalcore bands	Give me all Australian metalcore bands.	no	Wrong answer	3630
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	206	date, Olof Palme, shot	When was Olof Palme shot?	no	Wrong answer	549
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	252	swimmer, born, Moscow	Give all swimmers that were born in Moscow.	no	Wrong answer	570
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	254	book, wrote, Muhammad Ali	Show me the book that Muhammad Ali wrote.	no	Wrong answer	943
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	255	how many, museum, Paris	How many museums does Paris have?	no	Wrong answer	582
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	258	TV shows, Neil Patrick Harris	Give me all the TV shows with Neil Patrick Harris.	no	Wrong answer	580
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	260	soccer clubs, play, Bundesliga	Show a list of soccer clubs that play in the Bundesliga.	no	Wrong answer	5299
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	262	founder, Penguin Books	Who is the founder of Penguin Books?	no	Partial answer	1256
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	263	programming languages, influenced, Javascript	Which programming languages influenced Javascript?	no	Correct answer	736
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	265	musicals, music by, Leonard Bernstein	List all the musicals with music by Leonard Bernstein.	no	Correct answer	7861
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	266	breweries, Australia	Show me all the breweries in Australia.	no	Wrong answer	1088
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	267	Titanic, completion date	When was the Titanic completed?	no	Correct answer	559
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	268	cost, Pulp Fiction	How much did Pulp Fiction cost?	no	Wrong answer	550
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	273	bridges, cross, Seine	Which bridges cross the Seine?	no	Partial answer	1478
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	274	mayor, capital, French Polynesia	Who is the mayor of the capital of French Polynesia?	no	Wrong answer	804
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	275	Dracula, creator, die	When did Dracula's creator die?	no	Wrong answer	793
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	276	location, Houses of Parliament	What is the location of the Houses of Parliament?	no	Partial answer	848
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	277	English Gothic buildings, Kent	Show me all English Gothic buildings in Kent.	no	Wrong answer	563
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	278	pope, founded, Vatican Television	Who was the pope that founded the Vatican Television?	no	Wrong answer	1013
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	280	total population, Melbourne Florida	What is the total population of Melbourne, Florida?	no	Wrong answer	36656
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	281	airports, Yeti Airlines	Which airports does Yeti Airlines serve?	no	Wrong answer	77301
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	282	year, born, Rachel Stevens	In which year was Rachel Stevens born?	no	Wrong answer	908
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	283	JFK, assassinated	Where was JFK assassinated?	no	Wrong answer	821
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	284	how many, politicians, graduated, Columbia University	How many politicians graduated from Columbia University?	no	Wrong answer	9437
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	285	scientist, known for, Manhattan Project, Nobel Peace Prize	Which scientist is known for the Manhattan Project and the Nobel Peace Prize?	no	Wrong answer	6021
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	289	owner, Facebook	Who is the owner of Facebook?	no	Wrong answer	838
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	290	region, Melon de Bourgogne	From which region is the Melon de Bourgogne?	no	Wrong answer	822
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	291	influenced, Socrated	Who was influenced by Socrates?	no	Partial answer	562
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	295	married to, president Chirac	Who was married to president Chirac?	no	Wrong answer	830
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	297	produced, France, sparkling wine	Where in France is sparkling wine produced?	no	Wrong answer	814
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	298	Hillel Slovak, death place	Where did Hillel Slovak die?	no	Wrong answer	563
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	299	timezone, San Pedro de Atacama	What is the timezone in San Pedro de Atacama?	no	Wrong answer	1251
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	300	city, Chile Route 68, ends	In which city does the Chile Route 68 end?	no	Wrong answer	556
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	301	ESA astronauts	Give me all ESA astronauts.	no	Wrong answer	556
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	302	Swedish holidays	Give me all Swedish holidays.	no	Wrong answer	5456
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	304	animal, critically endangered	Which animals are critically endangered?	no	Wrong answer	851
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	305	soccer player, born on, Malta	Which soccer players were born on Malta?	no	Wrong answer	6100
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	307	programming languages, influenced by, Perl	Which programming languages were influenced by Perl?	no	Partial answer	8627
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	311	killed, John Lennon	Who killed John Lennon?	no	Correct answer	1100
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	315	scientists, graduated, Ivy League university	How many scientists graduated from an Ivy League university?	no	Wrong answer	1424
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	316	grape types, grow, Oregon	Which types of grapes grow in Oregon?	no	Wrong answer	565
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	317	starring, Spanish movies, produced, Benicio del Toro	Who is starring in Spanish movies produced by Benicio del Toro?	no	Wrong answer	24883
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	318	manager, Real Madrid	Who is the manager of Real Madrid?	no	Wrong answer	1098
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	319	currency, China	Give me the currency of China.	no	Wrong answer	587
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	320	movies, starring, Mickey Rourke, directed, Guy Ritchie	Which movies starring Mickey Rourke were directed by Guy Ritchie?	no	Wrong answer	2323
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	324	subsidiary, TUI Travel, serve, Glasgow, Dublin	Which subsidiary of TUI Travel serves both Glasgow and Dublin?	no	Wrong answer	43450
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	329	Swiss, non-profit organization	Give me all Swiss non-profit organizations.	no	Wrong answer	1397
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	330	country, located, Mecca	In which country is Mecca located?	no	Wrong answer	862
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	331	net income, Apple	What is the net income of Apple?	no	Wrong answer	564
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	332	abbreviation, FIFA	What does the abbreviation FIFA stand for?	no	Wrong answer	563
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	336	country, desserts, contain, fish	Desserts from which country contain fish?	no	Wrong answer	569
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	337	highest, mountain, Italy	What is the highest mountain in Italy?	no	Wrong answer	579
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	339	Greek party, pro-European	Which Greek parties are pro-European?	no	Wrong answer	575
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	343	high, lighthouse in Colombo	How high is the lighthouse in Colombo?	no	Wrong answer	560
+A	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	347	parents, Queen Victoria	Who were the parents of Queen Victoria?	no	Wrong answer	601
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	1	cosmonauts	Give me all cosmonauts.	no	Partial answer	1141
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	10	Ganges, start, country	In which country does the Ganges start?	no	Wrong answer	10211
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	102	John F. Kennedy, vice president	Who was John F. Kennedy's vice president?	no	Correct answer	5560
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	103	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	840
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	104	Free University, Amsterdam, students	How many students does the Free University in Amsterdam have?	no	Wrong answer	4673
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	106	professional, skateboarder, Sweden	Give me all professional skateboarders from Sweden.	no	Wrong answer	8811
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	109	bandleader, play, trumpet	Give me a list of all bandleaders that play trumpet.	no	Wrong answer	833
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	11	country, cave, more than ten	Which countries have more than ten caves?	no	Wrong answer	550
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	200	produce, Orangina	Who produces Orangina?	no	Wrong answer	4589
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	114	member, Prodigy	Give me all members of Prodigy.	no	Wrong answer	543
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	118	Mars rover Curiosity, main discoveries	What were the main discoveries of the Mars rover Curiosity?	no	Wrong answer	797
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	119	people, born, Vienna, die, Berlin	Give me all people that were born in Vienna and died in Berlin.	no	Wrong answer	2667335
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	120	tall, Michael Jordan	How tall is Michael Jordan?	no	Wrong answer	1887
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	121	capital, Canada	What is the capital of Canada?	no	Wrong answer	21008
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	128	movie, direct, Francis Ford Coppola	Give me all movies directed by Francis Ford Coppola.	no	Wrong answer	3542
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	129	actor, starring, movie, direct, William Shatner	Give me all actors starring in movies directed by William Shatner.	no	Wrong answer	30320
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	130	birth name, Angela Merkel	What is the birth name of Angela Merkel?	no	Wrong answer	836
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	133	nonprofit organization, Australia	Give me all Australian nonprofit organizations.	no	Wrong answer	574
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	134	Lawrence of Arabia, military conflict	In which military conflicts did Lawrence of Arabia participate?	no	Wrong answer	19469
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	135	Minecraft, develop	Who developed Minecraft?	no	Partial answer	867
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	138	Maribor, inhabitants	How many inhabitants does Maribor have?	no	Wrong answer	1367
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	139	company, Munich	Give me all companies in Munich.	no	Wrong answer	7034
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	14	Amazon Eve, tall	How tall is Amazon Eve?	no	Correct answer	1069
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	140	game, GMT	List all games by GMT.	no	Wrong answer	825
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	141	Intel, founded	Who founded Intel?	no	Wrong answer	692
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	144	Weser, flow through, city	Which cities does the Weser flow through?	no	Wrong answer	566
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	145	Rhine, country	Which countries are connected by the Rhine?	no	Partial answer	1593
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	146	professional surfer, born, Australia	Which professional surfers were born in Australia?	no	Wrong answer	1077
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	148	MI6, headquarters, city, UK	In which UK city are the headquarters of the MI6?	no	Wrong answer	579
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	15	created, Goofy	Who created Goofy?	no	Wrong answer	561
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	151	islands, Japan	Give me all islands that belong to Japan.	no	Wrong answer	5403
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	157	astronaut, Apollo 14	Give me all Apollo 14 astronauts.	no	Wrong answer	869
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	163	movie, Denmark	Give me all Danish movies.	no	Wrong answer	1034
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	164	launch pad, operate, NASA	Give me all launch pads operated by NASA.	no	Wrong answer	2304
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	165	Cat Stevens, instrument	Which instruments does Cat Stevens play?	no	Wrong answer	886
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	167	Juan Carlos I, wife, parents	Who are the parents of the wife of Juan Carlos I?	no	Wrong answer	803
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	168	Google, employees	How many employees does Google have?	no	Wrong answer	808
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	174	Michael Jackson, die	When did Michael Jackson die?	no	Wrong answer	248391
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	175	chess players, British earl, die, same, place, born	Which Chess players died in the same place they were born in?	no	Wrong answer	6121782
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	176	Margaret Thatcher, child	List the children of Margaret Thatcher.	no	Correct answer	1434
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	18	museum, Scream, Munch	Which museum exhibits The Scream by Munch?	no	Wrong answer	802
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	181	book, Kerouac, publish, Viking Press	Which books by Kerouac were published by Viking Press?	no	Wrong answer	822
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	183	Mount Everest, high	How high is the Mount Everest?	no	Wrong answer	562
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	184	Batman, creator	Who created Batman?	no	Correct answer	820
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	185	Australia, capital, people, live	How many people live in the capital of Australia?	no	Wrong answer	2676
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	186	Australia, largest city	What is the largest city in Australia?	no	Wrong answer	586
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	187	Harold and Maude, compose, music	Who composed the music for Harold and Maude?	no	Wrong answer	5059
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	189	Dutch queen Juliana, burried, city	In which city was the former Dutch queen Juliana buried?	no	Wrong answer	1288
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	196	Ramones, B-sides	Give me all B-sides of the Ramones.	no	Wrong answer	557
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	198	Miffy, creator, country	Which country does the creator of Miffy come from?	no	Wrong answer	1063
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	2	television show, Charmed, actor, birthday	Give me the birthdays of all actors of the television show Charmed.	no	Wrong answer	14144
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	20	IBM, employees	How many employees does IBM have?	no	Wrong answer	1365
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	22	Limerick Lake, country	In which country is the Limerick Lake?	no	Correct answer	1822
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	23	television show, create, John Cleese	Which television shows were created by John Cleese?	no	Wrong answer	828
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	25	film, directed, Garry Marshall, starring, Julia Roberts	In which films directed by Garry Marshall was Julia Roberts starring?	no	Wrong answer	49911
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	29	Douglas Hofstadter, award	Which awards did Douglas Hofstadter win?	no	Correct answer	1006
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	3	Robert Kennedy, daughter, married	Who is the daughter of Robert Kennedy married to?	no	Wrong answer	874
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	31	Czech republic, currency	What is the currency of the Czech Republic?	no	Wrong answer	564
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	33	Berlin, area code	What is the area code of Berlin?	no	Wrong answer	570
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	35	Rolls-Royce, owner	Who is the owner of Rolls-Royce?	no	Wrong answer	562
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	36	Yenisei river, flow through, country	Through which countries does the Yenisei river flow?	no	Wrong answer	14807
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	38	politician, married, German	Which politicians were married to a German?	no	Wrong answer	1157
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	39	Battle of Gettysburg	When was the Battle of Gettysburg?	no	Wrong answer	560
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	4	river, cross, Brooklyn Bridge	Which river does the Brooklyn Bridge cross?	no	Correct answer	619
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	42	Suriname, official language	What is the official language of Suriname?	no	Wrong answer	559
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	43	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	806
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	44	Brooklyn Bridge, design	Who designed the Brooklyn Bridge?	no	Wrong answer	1541
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	48	Forbes, editor	Who is the editor of Forbes?	no	Correct answer	556
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	50	Bruce Carver, die	What did Bruce Carver die from?	no	Wrong answer	271003
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	53	Germany, federal chancellors	Give me all federal chancellors of Germany.	no	Wrong answer	6163
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	54	U.S. president, Lincoln, wife	Who was the wife of U.S. president Lincoln?	no	Wrong answer	4392
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	55	video game, World of Warcraft, develop	Who developed the video game World of Warcraft?	no	Wrong answer	590
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	57	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos.	no	Wrong answer	1276
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	6	city, John F. Kennedy, die	In which city did John F. Kennedy die?	no	Wrong answer	576
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	62	Wikipedia, created	Who created Wikipedia?	no	Wrong answer	806
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	63	actor, starring, Last Action Hero	Give me all actors starring in Last Action Hero.	no	Wrong answer	327160
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	64	organization, founded, California, develop, software	Which software has been developed by organizations founded in California?	no	Wrong answer	84501
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	68	actor, born, Germany	Which actors were born in Germany?	no	Wrong answer	5191
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	70	film, produce, Hal Roach	Give me all films produced by Hal Roach.	no	Wrong answer	5533
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	72	language, spoken, Estonia	Which languages are spoken in Estonia?	no	Partial answer	24179
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	73	own, Aldi	How many Aldi stores are there?	no	Wrong answer	831
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	75	United States, 16th president	Who was the 16th president of the United States?	no	Wrong answer	12761
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	78	book, written, Danielle Steel	Give me all books written by Danielle Steel.	no	Wrong answer	7350
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	79	airport, located, California, USA	Which airports are located in California, USA?	no	Wrong answer	669519
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	80	record label, Canadian, Grunge	Give me all Canadian Grunge record labels.	no	Wrong answer	851
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	82	GIMP, programming language	In which programming language is GIMP written?	no	Wrong answer	556
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	83	produce, film, starring, Natalie Portman	Who produced films starring Natalie Portman?	no	Wrong answer	14179
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	84	movie, Tom Cruise	Give me all movies with Tom Cruise.	no	Wrong answer	1201
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	85	film, play, Julia Roberts, Richard Gere	In which films did Julia Roberts as well as Richard Gere play?	no	Wrong answer	12332
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	87	wrote, book, The pillars of the Earth	Who wrote the book The Pillars of the Earth?	no	Wrong answer	1491
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	88	film, star, Leonardo DiCaprio	How many films did Leonardo DiCaprio star in?	no	Wrong answer	1900
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	89	Premier League, soccer club	Give me all soccer clubs in the Premier League.	no	Wrong answer	3119
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	90	Jack Wolfskin, founded	When was Jack Wolfskin founded?	no	Wrong answer	744
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	231	inhabitants, largest city, Canada	How many inhabitants does the largest city in Canada have?	no	Wrong answer	578
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	249	Beatles, record, first album, studio	In which studio did the Beatles record their first album?	no	Wrong answer	652
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	234	first, climb, mount Everest	Who was the first to climb Mount Everest?	no	Wrong answer	706
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	242	University of Oxford, official color	What is the official color of the University of Oxford?	no	Wrong answer	906
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	250	Michael Phelps, gold medals, 2008 Olpympics	How many gold medals did Michael Phelps win at the 2008 Olympics?	no	Wrong answer	737
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	235	artistic movement, painter, The Three Dancers	To which artistic movement did the painter of The Three Dancers belong?	no	Wrong answer	5306
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	211	animal, extinct	Give me all animals that are extinct.	no	Wrong answer	1095
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	244	Lake Chiemsee, depth	How deep is Lake Chiemsee?	no	Wrong answer	592
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	240	Elvis Presley, grandchildren	Give me the grandchildren of Elvis Presley.	no	Wrong answer	834
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	221	birthplace, Bach	Where was Bach born?	no	Correct answer	827
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	232	countries, pay, West African CFA franc	In which countries can you pay using the West African CFA franc?	no	Wrong answer	1328
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	214	cause of death, most frequent	What is the most frequent cause of death?	no	Wrong answer	545
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	241	writer, win, Nobel Prize in literature	Give me all writers that won the Nobel Prize in literature.	no	Wrong answer	732
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	201	taikonauts	Give me all taikonauts.	no	Wrong answer	806
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	212	how many, pages, War and Peace	How many pages does War and Peace have?	no	Wrong answer	1074
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	208	rivers, flow, German lake	Which rivers flow into a German lake?	no	Wrong answer	689
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	246	rockets, launched, Baikonur	Which rockets were launched from Baikonur?	no	Wrong answer	558
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	236	pope, succeed, John Paul II	Which pope succeeded John Paul II?	no	Correct answer	564
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	205	Dutch, party	Give me all Dutch parties.	no	Wrong answer	6916
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	243	Swedish, oceanographer	Give me all Swedish oceanographers.	no	Wrong answer	831
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	226	actors, born, Berlin	Give me all actors who were born in Berlin.	no	Wrong answer	4516
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	248	ICRO, stand for	What does ICRO stand for?	no	Wrong answer	539
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	213	carrot cake, ingredients	Which ingredients do I need for carrot cake?	no	Partial answer	552
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	215	Tom Cruise, married	Who has Tom Cruise been married to?	no	Wrong answer	626
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	229	Australian, metalcore bands	Give me all Australian metalcore bands.	no	Wrong answer	3100
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	206	date, Olof Palme, shot	When was Olof Palme shot?	no	Wrong answer	540
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	252	swimmer, born, Moscow	Give all swimmers that were born in Moscow.	no	Wrong answer	555
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	254	book, wrote, Muhammad Ali	Show me the book that Muhammad Ali wrote.	no	Wrong answer	665
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	255	how many, museum, Paris	How many museums does Paris have?	no	Wrong answer	566
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	258	TV shows, Neil Patrick Harris	Give me all the TV shows with Neil Patrick Harris.	no	Wrong answer	567
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	260	soccer clubs, play, Bundesliga	Show a list of soccer clubs that play in the Bundesliga.	no	Wrong answer	22742
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	262	founder, Penguin Books	Who is the founder of Penguin Books?	no	Partial answer	846
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	263	programming languages, influenced, Javascript	Which programming languages influenced Javascript?	no	Correct answer	1281
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	265	musicals, music by, Leonard Bernstein	List all the musicals with music by Leonard Bernstein.	no	Correct answer	8635
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	266	breweries, Australia	Show me all the breweries in Australia.	no	Wrong answer	858
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	267	Titanic, completion date	When was the Titanic completed?	no	Correct answer	558
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	268	cost, Pulp Fiction	How much did Pulp Fiction cost?	no	Wrong answer	545
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	273	bridges, cross, Seine	Which bridges cross the Seine?	no	Partial answer	1187
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	274	mayor, capital, French Polynesia	Who is the mayor of the capital of French Polynesia?	no	Wrong answer	563
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	275	Dracula, creator, die	When did Dracula's creator die?	no	Wrong answer	521643
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	276	location, Houses of Parliament	What is the location of the Houses of Parliament?	no	Wrong answer	7281
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	277	English Gothic buildings, Kent	Show me all English Gothic buildings in Kent.	no	Wrong answer	851
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	278	pope, founded, Vatican Television	Who was the pope that founded the Vatican Television?	no	Wrong answer	2056
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	280	total population, Melbourne Florida	What is the total population of Melbourne, Florida?	no	Wrong answer	35895
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	281	airports, Yeti Airlines	Which airports does Yeti Airlines serve?	no	Wrong answer	85990
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	282	year, born, Rachel Stevens	In which year was Rachel Stevens born?	no	Wrong answer	1303
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	283	JFK, assassinated	Where was JFK assassinated?	no	Wrong answer	818
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	284	how many, politicians, graduated, Columbia University	How many politicians graduated from Columbia University?	no	Wrong answer	9360
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	285	scientist, known for, Manhattan Project, Nobel Peace Prize	Which scientist is known for the Manhattan Project and the Nobel Peace Prize?	no	Wrong answer	6308
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	289	owner, Facebook	Who is the owner of Facebook?	no	Wrong answer	1082
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	290	region, Melon de Bourgogne	From which region is the Melon de Bourgogne?	no	Wrong answer	582
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	291	influenced, Socrated	Who was influenced by Socrates?	no	Wrong answer	556
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	295	married to, president Chirac	Who was married to president Chirac?	no	Wrong answer	554
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	297	produced, France, sparkling wine	Where in France is sparkling wine produced?	no	Wrong answer	586
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	298	Hillel Slovak, death place	Where did Hillel Slovak die?	no	Wrong answer	560
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	299	timezone, San Pedro de Atacama	What is the timezone in San Pedro de Atacama?	no	Wrong answer	855
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	300	city, Chile Route 68, ends	In which city does the Chile Route 68 end?	no	Wrong answer	570
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	301	ESA astronauts	Give me all ESA astronauts.	no	Wrong answer	561
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	302	Swedish holidays	Give me all Swedish holidays.	no	Wrong answer	4968
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	304	animal, critically endangered	Which animals are critically endangered?	no	Wrong answer	554
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	305	soccer player, born on, Malta	Which soccer players were born on Malta?	no	Wrong answer	27615
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	307	programming languages, influenced by, Perl	Which programming languages were influenced by Perl?	no	Partial answer	9310
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	311	killed, John Lennon	Who killed John Lennon?	no	Wrong answer	1156
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	315	scientists, graduated, Ivy League university	How many scientists graduated from an Ivy League university?	no	Wrong answer	564
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	316	grape types, grow, Oregon	Which types of grapes grow in Oregon?	no	Wrong answer	566
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	317	starring, Spanish movies, produced, Benicio del Toro	Who is starring in Spanish movies produced by Benicio del Toro?	no	Wrong answer	657102
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	318	manager, Real Madrid	Who is the manager of Real Madrid?	no	Wrong answer	2001
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	319	currency, China	Give me the currency of China.	no	Wrong answer	570
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	320	movies, starring, Mickey Rourke, directed, Guy Ritchie	Which movies starring Mickey Rourke were directed by Guy Ritchie?	no	Wrong answer	35223
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	324	subsidiary, TUI Travel, serve, Glasgow, Dublin	Which subsidiary of TUI Travel serves both Glasgow and Dublin?	no	Wrong answer	44681
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	329	Swiss, non-profit organization	Give me all Swiss non-profit organizations.	no	Wrong answer	1381
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	330	country, located, Mecca	In which country is Mecca located?	no	Wrong answer	5535
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	331	net income, Apple	What is the net income of Apple?	no	Wrong answer	832
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	332	abbreviation, FIFA	What does the abbreviation FIFA stand for?	no	Wrong answer	572
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	336	country, desserts, contain, fish	Desserts from which country contain fish?	no	Wrong answer	568
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	337	highest, mountain, Italy	What is the highest mountain in Italy?	no	Wrong answer	569
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	339	Greek party, pro-European	Which Greek parties are pro-European?	no	Wrong answer	580
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	343	high, lighthouse in Colombo	How high is the lighthouse in Colombo?	no	Wrong answer	566
+A	english_dbpedia_synonyms	qald-6-train-multilingual.json	347	parents, Queen Victoria	Who were the parents of Queen Victoria?	no	Wrong answer	602
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	1	cosmonauts	Give me all cosmonauts.	no	Wrong answer	546
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	10	Ganges, start, country	In which country does the Ganges start?	no	Wrong answer	612
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	102	John F. Kennedy, vice president	Who was John F. Kennedy's vice president?	no	Correct answer	907
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	103	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	556
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	104	Free University, Amsterdam, students	How many students does the Free University in Amsterdam have?	no	Wrong answer	702
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	106	professional, skateboarder, Sweden	Give me all professional skateboarders from Sweden.	no	Wrong answer	686
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	109	bandleader, play, trumpet	Give me a list of all bandleaders that play trumpet.	no	Wrong answer	556
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	11	country, cave, more than ten	Which countries have more than ten caves?	no	Wrong answer	548
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	200	produce, Orangina	Who produces Orangina?	no	Wrong answer	598
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	114	member, Prodigy	Give me all members of Prodigy.	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	118	Mars rover Curiosity, main discoveries	What were the main discoveries of the Mars rover Curiosity?	no	Wrong answer	560
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	119	people, born, Vienna, die, Berlin	Give me all people that were born in Vienna and died in Berlin.	no	Wrong answer	603
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	120	tall, Michael Jordan	How tall is Michael Jordan?	no	Correct answer	545
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	121	capital, Canada	What is the capital of Canada?	no	Wrong answer	643
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	128	movie, direct, Francis Ford Coppola	Give me all movies directed by Francis Ford Coppola.	no	Wrong answer	574
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	129	actor, starring, movie, direct, William Shatner	Give me all actors starring in movies directed by William Shatner.	no	Wrong answer	663
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	130	birth name, Angela Merkel	What is the birth name of Angela Merkel?	no	Wrong answer	559
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	133	nonprofit organization, Australia	Give me all Australian nonprofit organizations.	no	Wrong answer	571
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	134	Lawrence of Arabia, military conflict	In which military conflicts did Lawrence of Arabia participate?	no	Wrong answer	630
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	135	Minecraft, develop	Who developed Minecraft?	no	Partial answer	554
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	138	Maribor, inhabitants	How many inhabitants does Maribor have?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	139	company, Munich	Give me all companies in Munich.	no	Wrong answer	661
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	14	Amazon Eve, tall	How tall is Amazon Eve?	no	Correct answer	559
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	140	game, GMT	List all games by GMT.	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	141	Intel, founded	Who founded Intel?	no	Correct answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	144	Weser, flow through, city	Which cities does the Weser flow through?	no	Wrong answer	562
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	145	Rhine, country	Which countries are connected by the Rhine?	no	Partial answer	858
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	146	professional surfer, born, Australia	Which professional surfers were born in Australia?	no	Wrong answer	614
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	148	MI6, headquarters, city, UK	In which UK city are the headquarters of the MI6?	no	Wrong answer	585
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	15	created, Goofy	Who created Goofy?	no	Wrong answer	562
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	151	islands, Japan	Give me all islands that belong to Japan.	no	Partial answer	636
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	157	astronaut, Apollo 14	Give me all Apollo 14 astronauts.	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	163	movie, Denmark	Give me all Danish movies.	no	Partial answer	670
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	164	launch pad, operate, NASA	Give me all launch pads operated by NASA.	no	Correct answer	601
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	165	Cat Stevens, instrument	Which instruments does Cat Stevens play?	no	Wrong answer	570
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	167	Juan Carlos I, wife, parents	Who are the parents of the wife of Juan Carlos I?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	168	Google, employees	How many employees does Google have?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	174	Michael Jackson, die	When did Michael Jackson die?	no	Correct answer	556
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	175	chess players, British earl, die, same, place, born	Which Chess players died in the same place they were born in?	no	Wrong answer	617
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	176	Margaret Thatcher, child	List the children of Margaret Thatcher.	no	Correct answer	567
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	18	museum, Scream, Munch	Which museum exhibits The Scream by Munch?	no	Wrong answer	562
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	181	book, Kerouac, publish, Viking Press	Which books by Kerouac were published by Viking Press?	no	Correct answer	619
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	183	Mount Everest, high	How high is the Mount Everest?	no	Wrong answer	553
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	184	Batman, creator	Who created Batman?	no	Correct answer	564
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	185	Australia, capital, people, live	How many people live in the capital of Australia?	no	Wrong answer	607
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	186	Australia, largest city	What is the largest city in Australia?	no	Wrong answer	585
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	187	Harold and Maude, compose, music	Who composed the music for Harold and Maude?	no	Wrong answer	588
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	189	Dutch queen Juliana, burried, city	In which city was the former Dutch queen Juliana buried?	no	Wrong answer	575
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	196	Ramones, B-sides	Give me all B-sides of the Ramones.	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	198	Miffy, creator, country	Which country does the creator of Miffy come from?	no	Wrong answer	5862
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	2	television show, Charmed, actor, birthday	Give me the birthdays of all actors of the television show Charmed.	no	Wrong answer	611
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	20	IBM, employees	How many employees does IBM have?	no	Wrong answer	1070
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	22	Limerick Lake, country	In which country is the Limerick Lake?	no	Correct answer	600
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	23	television show, create, John Cleese	Which television shows were created by John Cleese?	no	Wrong answer	576
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	25	film, directed, Garry Marshall, starring, Julia Roberts	In which films directed by Garry Marshall was Julia Roberts starring?	no	Wrong answer	738
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	29	Douglas Hofstadter, award	Which awards did Douglas Hofstadter win?	no	Correct answer	578
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	3	Robert Kennedy, daughter, married	Who is the daughter of Robert Kennedy married to?	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	31	Czech republic, currency	What is the currency of the Czech Republic?	no	Wrong answer	557
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	33	Berlin, area code	What is the area code of Berlin?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	35	Rolls-Royce, owner	Who is the owner of Rolls-Royce?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	36	Yenisei river, flow through, country	Through which countries does the Yenisei river flow?	no	Correct answer	604
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	38	politician, married, German	Which politicians were married to a German?	no	Partial answer	557
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	39	Battle of Gettysburg	When was the Battle of Gettysburg?	no	Wrong answer	547
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	4	river, cross, Brooklyn Bridge	Which river does the Brooklyn Bridge cross?	no	Wrong answer	569
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	42	Suriname, official language	What is the official language of Suriname?	no	Wrong answer	542
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	43	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	570
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	44	Brooklyn Bridge, design	Who designed the Brooklyn Bridge?	no	Wrong answer	562
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	48	Forbes, editor	Who is the editor of Forbes?	no	Correct answer	560
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	50	Bruce Carver, die	What did Bruce Carver die from?	no	Correct answer	559
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	53	Germany, federal chancellors	Give me all federal chancellors of Germany.	no	Wrong answer	678
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	54	U.S. president, Lincoln, wife	Who was the wife of U.S. president Lincoln?	no	Wrong answer	605
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	55	video game, World of Warcraft, develop	Who developed the video game World of Warcraft?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	57	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos.	no	Wrong answer	623
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	6	city, John F. Kennedy, die	In which city did John F. Kennedy die?	no	Wrong answer	570
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	62	Wikipedia, created	Who created Wikipedia?	no	Wrong answer	564
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	63	actor, starring, Last Action Hero	Give me all actors starring in Last Action Hero.	no	Wrong answer	693
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	64	organization, founded, California, develop, software	Which software has been developed by organizations founded in California?	no	Wrong answer	762
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	68	actor, born, Germany	Which actors were born in Germany?	no	Partial answer	645
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	70	film, produce, Hal Roach	Give me all films produced by Hal Roach.	no	Wrong answer	645
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	72	language, spoken, Estonia	Which languages are spoken in Estonia?	no	Partial answer	665
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	73	own, Aldi	How many Aldi stores are there?	no	Wrong answer	555
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	75	United States, 16th president	Who was the 16th president of the United States?	no	Wrong answer	679
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	78	book, written, Danielle Steel	Give me all books written by Danielle Steel.	no	Partial answer	595
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	79	airport, located, California, USA	Which airports are located in California, USA?	no	Partial answer	856
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	80	record label, Canadian, Grunge	Give me all Canadian Grunge record labels.	no	Wrong answer	849
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	82	GIMP, programming language	In which programming language is GIMP written?	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	83	produce, film, starring, Natalie Portman	Who produced films starring Natalie Portman?	no	Wrong answer	803
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	84	movie, Tom Cruise	Give me all movies with Tom Cruise.	no	Wrong answer	584
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	85	film, play, Julia Roberts, Richard Gere	In which films did Julia Roberts as well as Richard Gere play?	no	Wrong answer	750
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	87	wrote, book, The pillars of the Earth	Who wrote the book The Pillars of the Earth?	no	Wrong answer	598
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	88	film, star, Leonardo DiCaprio	How many films did Leonardo DiCaprio star in?	no	Wrong answer	613
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	89	Premier League, soccer club	Give me all soccer clubs in the Premier League.	no	Wrong answer	624
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	90	Jack Wolfskin, founded	When was Jack Wolfskin founded?	no	Wrong answer	566
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	231	inhabitants, largest city, Canada	How many inhabitants does the largest city in Canada have?	no	Wrong answer	578
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	249	Beatles, record, first album, studio	In which studio did the Beatles record their first album?	no	Wrong answer	553
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	234	first, climb, mount Everest	Who was the first to climb Mount Everest?	no	Correct answer	547
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	242	University of Oxford, official color	What is the official color of the University of Oxford?	no	Wrong answer	802
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	250	Michael Phelps, gold medals, 2008 Olpympics	How many gold medals did Michael Phelps win at the 2008 Olympics?	no	Wrong answer	550
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	235	artistic movement, painter, The Three Dancers	To which artistic movement did the painter of The Three Dancers belong?	no	Wrong answer	643
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	211	animal, extinct	Give me all animals that are extinct.	no	Wrong answer	558
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	244	Lake Chiemsee, depth	How deep is Lake Chiemsee?	no	Wrong answer	568
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	240	Elvis Presley, grandchildren	Give me the grandchildren of Elvis Presley.	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	221	birthplace, Bach	Where was Bach born?	no	Correct answer	554
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	232	countries, pay, West African CFA franc	In which countries can you pay using the West African CFA franc?	no	Wrong answer	569
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	214	cause of death, most frequent	What is the most frequent cause of death?	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	241	writer, win, Nobel Prize in literature	Give me all writers that won the Nobel Prize in literature.	no	Wrong answer	581
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	201	taikonauts	Give me all taikonauts.	no	Wrong answer	556
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	212	how many, pages, War and Peace	How many pages does War and Peace have?	no	Wrong answer	558
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	208	rivers, flow, German lake	Which rivers flow into a German lake?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	246	rockets, launched, Baikonur	Which rockets were launched from Baikonur?	no	Wrong answer	548
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	236	pope, succeed, John Paul II	Which pope succeeded John Paul II?	no	Correct answer	560
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	205	Dutch, party	Give me all Dutch parties.	no	Wrong answer	566
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	243	Swedish, oceanographer	Give me all Swedish oceanographers.	no	Wrong answer	560
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	226	actors, born, Berlin	Give me all actors who were born in Berlin.	no	Partial answer	633
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	248	ICRO, stand for	What does ICRO stand for?	no	Wrong answer	553
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	213	carrot cake, ingredients	Which ingredients do I need for carrot cake?	no	Partial answer	557
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	215	Tom Cruise, married	Who has Tom Cruise been married to?	no	Correct answer	559
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	229	Australian, metalcore bands	Give me all Australian metalcore bands.	no	Wrong answer	596
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	206	date, Olof Palme, shot	When was Olof Palme shot?	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	252	swimmer, born, Moscow	Give all swimmers that were born in Moscow.	no	Wrong answer	562
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	254	book, wrote, Muhammad Ali	Show me the book that Muhammad Ali wrote.	no	Correct answer	584
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	255	how many, museum, Paris	How many museums does Paris have?	no	Wrong answer	567
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	258	TV shows, Neil Patrick Harris	Give me all the TV shows with Neil Patrick Harris.	no	Wrong answer	573
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	260	soccer clubs, play, Bundesliga	Show a list of soccer clubs that play in the Bundesliga.	no	Wrong answer	717
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	262	founder, Penguin Books	Who is the founder of Penguin Books?	no	Partial answer	564
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	263	programming languages, influenced, Javascript	Which programming languages influenced Javascript?	no	Correct answer	578
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	265	musicals, music by, Leonard Bernstein	List all the musicals with music by Leonard Bernstein.	no	Correct answer	621
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	266	breweries, Australia	Show me all the breweries in Australia.	no	Wrong answer	584
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	267	Titanic, completion date	When was the Titanic completed?	no	Correct answer	558
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	268	cost, Pulp Fiction	How much did Pulp Fiction cost?	no	Wrong answer	1071
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	273	bridges, cross, Seine	Which bridges cross the Seine?	no	Partial answer	596
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	274	mayor, capital, French Polynesia	Who is the mayor of the capital of French Polynesia?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	275	Dracula, creator, die	When did Dracula's creator die?	no	Wrong answer	553
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	276	location, Houses of Parliament	What is the location of the Houses of Parliament?	no	Partial answer	576
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	277	English Gothic buildings, Kent	Show me all English Gothic buildings in Kent.	no	Wrong answer	570
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	278	pope, founded, Vatican Television	Who was the pope that founded the Vatican Television?	no	Correct answer	613
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	280	total population, Melbourne Florida	What is the total population of Melbourne, Florida?	no	Wrong answer	726
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	281	airports, Yeti Airlines	Which airports does Yeti Airlines serve?	no	Wrong answer	605
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	282	year, born, Rachel Stevens	In which year was Rachel Stevens born?	no	Wrong answer	576
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	283	JFK, assassinated	Where was JFK assassinated?	no	Partial answer	546
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	284	how many, politicians, graduated, Columbia University	How many politicians graduated from Columbia University?	no	Wrong answer	649
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	285	scientist, known for, Manhattan Project, Nobel Peace Prize	Which scientist is known for the Manhattan Project and the Nobel Peace Prize?	no	Wrong answer	627
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	289	owner, Facebook	Who is the owner of Facebook?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	290	region, Melon de Bourgogne	From which region is the Melon de Bourgogne?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	291	influenced, Socrated	Who was influenced by Socrates?	no	Partial answer	556
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	295	married to, president Chirac	Who was married to president Chirac?	no	Wrong answer	1073
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	297	produced, France, sparkling wine	Where in France is sparkling wine produced?	no	Wrong answer	662
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	298	Hillel Slovak, death place	Where did Hillel Slovak die?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	299	timezone, San Pedro de Atacama	What is the timezone in San Pedro de Atacama?	no	Correct answer	548
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	300	city, Chile Route 68, ends	In which city does the Chile Route 68 end?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	301	ESA astronauts	Give me all ESA astronauts.	no	Wrong answer	558
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	302	Swedish holidays	Give me all Swedish holidays.	no	Wrong answer	601
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	304	animal, critically endangered	Which animals are critically endangered?	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	305	soccer player, born on, Malta	Which soccer players were born on Malta?	no	Wrong answer	643
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	307	programming languages, influenced by, Perl	Which programming languages were influenced by Perl?	no	Partial answer	614
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	311	killed, John Lennon	Who killed John Lennon?	no	Correct answer	550
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	315	scientists, graduated, Ivy League university	How many scientists graduated from an Ivy League university?	no	Wrong answer	559
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	316	grape types, grow, Oregon	Which types of grapes grow in Oregon?	no	Wrong answer	562
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	317	starring, Spanish movies, produced, Benicio del Toro	Who is starring in Spanish movies produced by Benicio del Toro?	no	Wrong answer	1216
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	318	manager, Real Madrid	Who is the manager of Real Madrid?	no	Wrong answer	564
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	319	currency, China	Give me the currency of China.	no	Wrong answer	574
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	320	movies, starring, Mickey Rourke, directed, Guy Ritchie	Which movies starring Mickey Rourke were directed by Guy Ritchie?	no	Wrong answer	821
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	324	subsidiary, TUI Travel, serve, Glasgow, Dublin	Which subsidiary of TUI Travel serves both Glasgow and Dublin?	no	Wrong answer	816
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	329	Swiss, non-profit organization	Give me all Swiss non-profit organizations.	no	Wrong answer	559
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	330	country, located, Mecca	In which country is Mecca located?	no	Wrong answer	583
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	331	net income, Apple	What is the net income of Apple?	no	Wrong answer	558
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	332	abbreviation, FIFA	What does the abbreviation FIFA stand for?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	336	country, desserts, contain, fish	Desserts from which country contain fish?	no	Wrong answer	562
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	337	highest, mountain, Italy	What is the highest mountain in Italy?	no	Wrong answer	571
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	339	Greek party, pro-European	Which Greek parties are pro-European?	no	Wrong answer	568
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	343	high, lighthouse in Colombo	How high is the lighthouse in Colombo?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-6-train-multilingual.json	347	parents, Queen Victoria	Who were the parents of Queen Victoria?	no	Correct answer	574
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	1	cosmonauts	Give me all cosmonauts.	no	Partial answer	545
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	10	Ganges, start, country	In which country does the Ganges start?	no	Wrong answer	699
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	102	John F. Kennedy, vice president	Who was John F. Kennedy's vice president?	no	Correct answer	608
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	103	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	104	Free University, Amsterdam, students	How many students does the Free University in Amsterdam have?	no	Wrong answer	656
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	106	professional, skateboarder, Sweden	Give me all professional skateboarders from Sweden.	no	Wrong answer	665
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	109	bandleader, play, trumpet	Give me a list of all bandleaders that play trumpet.	no	Wrong answer	553
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	11	country, cave, more than ten	Which countries have more than ten caves?	no	Wrong answer	624
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	200	produce, Orangina	Who produces Orangina?	no	Wrong answer	601
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	114	member, Prodigy	Give me all members of Prodigy.	no	Wrong answer	546
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	118	Mars rover Curiosity, main discoveries	What were the main discoveries of the Mars rover Curiosity?	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	119	people, born, Vienna, die, Berlin	Give me all people that were born in Vienna and died in Berlin.	no	Wrong answer	910
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	120	tall, Michael Jordan	How tall is Michael Jordan?	no	Correct answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	121	capital, Canada	What is the capital of Canada?	no	Wrong answer	634
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	128	movie, direct, Francis Ford Coppola	Give me all movies directed by Francis Ford Coppola.	no	Wrong answer	801
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	129	actor, starring, movie, direct, William Shatner	Give me all actors starring in movies directed by William Shatner.	no	Wrong answer	2579
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	130	birth name, Angela Merkel	What is the birth name of Angela Merkel?	no	Wrong answer	561
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	133	nonprofit organization, Australia	Give me all Australian nonprofit organizations.	no	Wrong answer	568
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	134	Lawrence of Arabia, military conflict	In which military conflicts did Lawrence of Arabia participate?	no	Wrong answer	858
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	135	Minecraft, develop	Who developed Minecraft?	no	Partial answer	577
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	138	Maribor, inhabitants	How many inhabitants does Maribor have?	no	Wrong answer	555
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	139	company, Munich	Give me all companies in Munich.	no	Wrong answer	659
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	14	Amazon Eve, tall	How tall is Amazon Eve?	no	Correct answer	557
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	140	game, GMT	List all games by GMT.	no	Wrong answer	552
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	141	Intel, founded	Who founded Intel?	no	Wrong answer	600
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	144	Weser, flow through, city	Which cities does the Weser flow through?	no	Wrong answer	671
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	145	Rhine, country	Which countries are connected by the Rhine?	no	Partial answer	656
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	146	professional surfer, born, Australia	Which professional surfers were born in Australia?	no	Wrong answer	617
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	148	MI6, headquarters, city, UK	In which UK city are the headquarters of the MI6?	no	Wrong answer	565
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	15	created, Goofy	Who created Goofy?	no	Wrong answer	559
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	151	islands, Japan	Give me all islands that belong to Japan.	no	Partial answer	623
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	157	astronaut, Apollo 14	Give me all Apollo 14 astronauts.	no	Wrong answer	552
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	163	movie, Denmark	Give me all Danish movies.	no	Wrong answer	627
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	164	launch pad, operate, NASA	Give me all launch pads operated by NASA.	no	Partial answer	734
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	165	Cat Stevens, instrument	Which instruments does Cat Stevens play?	no	Wrong answer	580
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	167	Juan Carlos I, wife, parents	Who are the parents of the wife of Juan Carlos I?	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	168	Google, employees	How many employees does Google have?	no	Wrong answer	550
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	174	Michael Jackson, die	When did Michael Jackson die?	no	Wrong answer	597
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	175	chess players, British earl, die, same, place, born	Which Chess players died in the same place they were born in?	no	Wrong answer	1314
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	176	Margaret Thatcher, child	List the children of Margaret Thatcher.	no	Correct answer	557
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	18	museum, Scream, Munch	Which museum exhibits The Scream by Munch?	no	Wrong answer	553
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	181	book, Kerouac, publish, Viking Press	Which books by Kerouac were published by Viking Press?	no	Correct answer	879
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	183	Mount Everest, high	How high is the Mount Everest?	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	184	Batman, creator	Who created Batman?	no	Correct answer	557
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	185	Australia, capital, people, live	How many people live in the capital of Australia?	no	Wrong answer	607
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	186	Australia, largest city	What is the largest city in Australia?	no	Wrong answer	568
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	187	Harold and Maude, compose, music	Who composed the music for Harold and Maude?	no	Wrong answer	620
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	189	Dutch queen Juliana, burried, city	In which city was the former Dutch queen Juliana buried?	no	Wrong answer	571
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	196	Ramones, B-sides	Give me all B-sides of the Ramones.	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	198	Miffy, creator, country	Which country does the creator of Miffy come from?	no	Wrong answer	575
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	2	television show, Charmed, actor, birthday	Give me the birthdays of all actors of the television show Charmed.	no	Wrong answer	634
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	20	IBM, employees	How many employees does IBM have?	no	Wrong answer	545
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	22	Limerick Lake, country	In which country is the Limerick Lake?	no	Correct answer	639
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	23	television show, create, John Cleese	Which television shows were created by John Cleese?	no	Wrong answer	570
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	25	film, directed, Garry Marshall, starring, Julia Roberts	In which films directed by Garry Marshall was Julia Roberts starring?	no	Wrong answer	5095
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	29	Douglas Hofstadter, award	Which awards did Douglas Hofstadter win?	no	Correct answer	870
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	3	Robert Kennedy, daughter, married	Who is the daughter of Robert Kennedy married to?	no	Wrong answer	562
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	31	Czech republic, currency	What is the currency of the Czech Republic?	no	Wrong answer	569
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	33	Berlin, area code	What is the area code of Berlin?	no	Wrong answer	561
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	35	Rolls-Royce, owner	Who is the owner of Rolls-Royce?	no	Wrong answer	563
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	36	Yenisei river, flow through, country	Through which countries does the Yenisei river flow?	no	Correct answer	821
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	38	politician, married, German	Which politicians were married to a German?	no	Wrong answer	562
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	39	Battle of Gettysburg	When was the Battle of Gettysburg?	no	Wrong answer	562
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	4	river, cross, Brooklyn Bridge	Which river does the Brooklyn Bridge cross?	no	Wrong answer	583
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	42	Suriname, official language	What is the official language of Suriname?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	43	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	562
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	44	Brooklyn Bridge, design	Who designed the Brooklyn Bridge?	no	Wrong answer	651
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	48	Forbes, editor	Who is the editor of Forbes?	no	Correct answer	561
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	50	Bruce Carver, die	What did Bruce Carver die from?	no	Wrong answer	606
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	53	Germany, federal chancellors	Give me all federal chancellors of Germany.	no	Wrong answer	689
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	54	U.S. president, Lincoln, wife	Who was the wife of U.S. president Lincoln?	no	Wrong answer	620
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	55	video game, World of Warcraft, develop	Who developed the video game World of Warcraft?	no	Wrong answer	562
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	57	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos.	no	Wrong answer	618
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	6	city, John F. Kennedy, die	In which city did John F. Kennedy die?	no	Wrong answer	565
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	62	Wikipedia, created	Who created Wikipedia?	no	Wrong answer	563
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	63	actor, starring, Last Action Hero	Give me all actors starring in Last Action Hero.	no	Wrong answer	700
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	64	organization, founded, California, develop, software	Which software has been developed by organizations founded in California?	no	Wrong answer	2788
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	68	actor, born, Germany	Which actors were born in Germany?	no	Partial answer	630
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	70	film, produce, Hal Roach	Give me all films produced by Hal Roach.	no	Wrong answer	765
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	72	language, spoken, Estonia	Which languages are spoken in Estonia?	no	Partial answer	671
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	73	own, Aldi	How many Aldi stores are there?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	75	United States, 16th president	Who was the 16th president of the United States?	no	Wrong answer	686
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	78	book, written, Danielle Steel	Give me all books written by Danielle Steel.	no	Partial answer	599
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	79	airport, located, California, USA	Which airports are located in California, USA?	no	Partial answer	1258
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	80	record label, Canadian, Grunge	Give me all Canadian Grunge record labels.	no	Wrong answer	837
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	82	GIMP, programming language	In which programming language is GIMP written?	no	Wrong answer	547
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	83	produce, film, starring, Natalie Portman	Who produced films starring Natalie Portman?	no	Wrong answer	1289
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	84	movie, Tom Cruise	Give me all movies with Tom Cruise.	no	Wrong answer	577
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	85	film, play, Julia Roberts, Richard Gere	In which films did Julia Roberts as well as Richard Gere play?	no	Wrong answer	1881
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	87	wrote, book, The pillars of the Earth	Who wrote the book The Pillars of the Earth?	no	Wrong answer	648
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	88	film, star, Leonardo DiCaprio	How many films did Leonardo DiCaprio star in?	no	Wrong answer	727
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	89	Premier League, soccer club	Give me all soccer clubs in the Premier League.	no	Wrong answer	635
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	90	Jack Wolfskin, founded	When was Jack Wolfskin founded?	no	Wrong answer	606
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	231	inhabitants, largest city, Canada	How many inhabitants does the largest city in Canada have?	no	Wrong answer	570
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	249	Beatles, record, first album, studio	In which studio did the Beatles record their first album?	no	Wrong answer	569
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	234	first, climb, mount Everest	Who was the first to climb Mount Everest?	no	Wrong answer	583
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	242	University of Oxford, official color	What is the official color of the University of Oxford?	no	Wrong answer	583
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	250	Michael Phelps, gold medals, 2008 Olpympics	How many gold medals did Michael Phelps win at the 2008 Olympics?	no	Wrong answer	575
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	235	artistic movement, painter, The Three Dancers	To which artistic movement did the painter of The Three Dancers belong?	no	Wrong answer	637
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	211	animal, extinct	Give me all animals that are extinct.	no	Wrong answer	559
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	244	Lake Chiemsee, depth	How deep is Lake Chiemsee?	no	Wrong answer	568
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	240	Elvis Presley, grandchildren	Give me the grandchildren of Elvis Presley.	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	221	birthplace, Bach	Where was Bach born?	no	Correct answer	553
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	232	countries, pay, West African CFA franc	In which countries can you pay using the West African CFA franc?	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	214	cause of death, most frequent	What is the most frequent cause of death?	no	Wrong answer	548
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	241	writer, win, Nobel Prize in literature	Give me all writers that won the Nobel Prize in literature.	no	Wrong answer	698
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	201	taikonauts	Give me all taikonauts.	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	212	how many, pages, War and Peace	How many pages does War and Peace have?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	208	rivers, flow, German lake	Which rivers flow into a German lake?	no	Wrong answer	569
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	246	rockets, launched, Baikonur	Which rockets were launched from Baikonur?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	236	pope, succeed, John Paul II	Which pope succeeded John Paul II?	no	Correct answer	564
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	205	Dutch, party	Give me all Dutch parties.	no	Wrong answer	680
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	243	Swedish, oceanographer	Give me all Swedish oceanographers.	no	Wrong answer	560
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	226	actors, born, Berlin	Give me all actors who were born in Berlin.	no	Partial answer	633
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	248	ICRO, stand for	What does ICRO stand for?	no	Wrong answer	550
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	213	carrot cake, ingredients	Which ingredients do I need for carrot cake?	no	Partial answer	559
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	215	Tom Cruise, married	Who has Tom Cruise been married to?	no	Wrong answer	561
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	229	Australian, metalcore bands	Give me all Australian metalcore bands.	no	Wrong answer	595
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	206	date, Olof Palme, shot	When was Olof Palme shot?	no	Wrong answer	560
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	252	swimmer, born, Moscow	Give all swimmers that were born in Moscow.	no	Wrong answer	602
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	254	book, wrote, Muhammad Ali	Show me the book that Muhammad Ali wrote.	no	Correct answer	582
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	255	how many, museum, Paris	How many museums does Paris have?	no	Wrong answer	810
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	258	TV shows, Neil Patrick Harris	Give me all the TV shows with Neil Patrick Harris.	no	Wrong answer	576
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	260	soccer clubs, play, Bundesliga	Show a list of soccer clubs that play in the Bundesliga.	no	Wrong answer	909
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	262	founder, Penguin Books	Who is the founder of Penguin Books?	no	Partial answer	566
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	263	programming languages, influenced, Javascript	Which programming languages influenced Javascript?	no	Correct answer	629
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	265	musicals, music by, Leonard Bernstein	List all the musicals with music by Leonard Bernstein.	no	Correct answer	636
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	266	breweries, Australia	Show me all the breweries in Australia.	no	Wrong answer	815
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	267	Titanic, completion date	When was the Titanic completed?	no	Correct answer	555
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	268	cost, Pulp Fiction	How much did Pulp Fiction cost?	no	Wrong answer	547
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	273	bridges, cross, Seine	Which bridges cross the Seine?	no	Partial answer	617
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	274	mayor, capital, French Polynesia	Who is the mayor of the capital of French Polynesia?	no	Wrong answer	560
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	275	Dracula, creator, die	When did Dracula's creator die?	no	Wrong answer	648
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	276	location, Houses of Parliament	What is the location of the Houses of Parliament?	no	Wrong answer	735
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	277	English Gothic buildings, Kent	Show me all English Gothic buildings in Kent.	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	278	pope, founded, Vatican Television	Who was the pope that founded the Vatican Television?	no	Wrong answer	847
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	280	total population, Melbourne Florida	What is the total population of Melbourne, Florida?	no	Wrong answer	747
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	281	airports, Yeti Airlines	Which airports does Yeti Airlines serve?	no	Wrong answer	599
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	282	year, born, Rachel Stevens	In which year was Rachel Stevens born?	no	Wrong answer	595
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	283	JFK, assassinated	Where was JFK assassinated?	no	Partial answer	555
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	284	how many, politicians, graduated, Columbia University	How many politicians graduated from Columbia University?	no	Wrong answer	632
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	285	scientist, known for, Manhattan Project, Nobel Peace Prize	Which scientist is known for the Manhattan Project and the Nobel Peace Prize?	no	Wrong answer	633
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	289	owner, Facebook	Who is the owner of Facebook?	no	Wrong answer	557
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	290	region, Melon de Bourgogne	From which region is the Melon de Bourgogne?	no	Wrong answer	568
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	291	influenced, Socrated	Who was influenced by Socrates?	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	295	married to, president Chirac	Who was married to president Chirac?	no	Wrong answer	549
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	297	produced, France, sparkling wine	Where in France is sparkling wine produced?	no	Wrong answer	573
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	298	Hillel Slovak, death place	Where did Hillel Slovak die?	no	Wrong answer	563
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	299	timezone, San Pedro de Atacama	What is the timezone in San Pedro de Atacama?	no	Correct answer	553
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	300	city, Chile Route 68, ends	In which city does the Chile Route 68 end?	no	Wrong answer	557
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	301	ESA astronauts	Give me all ESA astronauts.	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	302	Swedish holidays	Give me all Swedish holidays.	no	Wrong answer	591
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	304	animal, critically endangered	Which animals are critically endangered?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	305	soccer player, born on, Malta	Which soccer players were born on Malta?	no	Wrong answer	815
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	307	programming languages, influenced by, Perl	Which programming languages were influenced by Perl?	no	Partial answer	608
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	311	killed, John Lennon	Who killed John Lennon?	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	315	scientists, graduated, Ivy League university	How many scientists graduated from an Ivy League university?	no	Wrong answer	557
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	316	grape types, grow, Oregon	Which types of grapes grow in Oregon?	no	Wrong answer	565
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	317	starring, Spanish movies, produced, Benicio del Toro	Who is starring in Spanish movies produced by Benicio del Toro?	no	Wrong answer	2364
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	318	manager, Real Madrid	Who is the manager of Real Madrid?	no	Wrong answer	593
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	319	currency, China	Give me the currency of China.	no	Wrong answer	578
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	320	movies, starring, Mickey Rourke, directed, Guy Ritchie	Which movies starring Mickey Rourke were directed by Guy Ritchie?	no	Wrong answer	3860
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	324	subsidiary, TUI Travel, serve, Glasgow, Dublin	Which subsidiary of TUI Travel serves both Glasgow and Dublin?	no	Wrong answer	781
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	329	Swiss, non-profit organization	Give me all Swiss non-profit organizations.	no	Wrong answer	566
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	330	country, located, Mecca	In which country is Mecca located?	no	Correct answer	830
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	331	net income, Apple	What is the net income of Apple?	no	Wrong answer	557
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	332	abbreviation, FIFA	What does the abbreviation FIFA stand for?	no	Wrong answer	560
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	336	country, desserts, contain, fish	Desserts from which country contain fish?	no	Wrong answer	562
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	337	highest, mountain, Italy	What is the highest mountain in Italy?	no	Wrong answer	569
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	339	Greek party, pro-European	Which Greek parties are pro-European?	no	Wrong answer	579
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	343	high, lighthouse in Colombo	How high is the lighthouse in Colombo?	no	Wrong answer	563
+B	english_dbpedia_synonyms	qald-6-train-multilingual.json	347	parents, Queen Victoria	Who were the parents of Queen Victoria?	no	Correct answer	570
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	0	Battle of Gettysburg	When was the Battle of Gettysburg?	no	Wrong answer	559
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	1	musicals, music by, Elton John	List all the musicals with music by Elton John.	no	Correct answer	8028
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	2	high, lighthouse in Colombo	How high is the lighthouse in Colombo?	no	Wrong answer	835
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	3	U.S. president, Lincoln, wife	Who was the wife of U.S. president Lincoln?	no	Wrong answer	4583
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	4	host, BBC Wildlife Specials	Who is the host of the BBC Wildlife Specials?	no	Wrong answer	12838
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	5	cost, Pulp Fiction	How much did Pulp Fiction cost?	no	Wrong answer	836
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	6	city, Heineken brewery	In what city is the Heineken brewery?	no	Wrong answer	567
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	7	when, Operation Overlord, commence	When did Operation Overlord commence?	no	Correct answer	822
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	8	city, Chile Route 68, ends	In which city does the Chile Route 68 end?	no	Wrong answer	1073
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	9	developer, Slack	Who developed Slack?	no	Wrong answer	541
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	10	married to, president Chirac	Who was married to president Chirac?	no	Wrong answer	541
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	11	Bruce Carver, die	What did Bruce Carver die from?	no	Correct answer	794
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	13	Weser, flow through, city	Which cities does the Weser flow through?	no	Wrong answer	833
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	14	How many seats, stadium of FC Porto	How many seats does the home stadium of FC Porto have?	no	Wrong answer	93086
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	15	Robert Kennedy, daughter, married	Who is the daughter of Robert Kennedy married to?	no	Wrong answer	1084
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	16	book, Kerouac, publish, Viking Press	Which books by Kerouac were published by Viking Press?	no	Wrong answer	1254
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	17	Amazon Eve, tall	How tall is Amazon Eve?	no	Correct answer	779
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	18	museum, Scream, Munch	Which museum exhibits The Scream by Munch?	no	Wrong answer	827
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	19	wrote, book, The pillars of the Earth	Who wrote the book Les Piliers de la terre?	no	Wrong answer	1201
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	21	discoverer, Ceres	Who discovered Ceres?	no	Correct answer	553
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	22	river, cross, Brooklyn Bridge	Which river does the Brooklyn Bridge cross?	no	Correct answer	636
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	25	mayor, Paris	Who is the mayor of Paris?	no	Wrong answer	572
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	26	coach, ice hockey team, Ankara	Who is the coach of Ankara's ice hockey team?	no	Wrong answer	4770
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	27	mayor, capital, French Polynesia	Who is the mayor of the capital of French Polynesia?	no	Wrong answer	1014
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	28	Douglas Hofstadter, award	Which awards did Douglas Hofstadter win?	no	Correct answer	716
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	29	Lego Movie, cost	How much did the Lego Movie cost?	no	Wrong answer	553
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	30	Piccadilly, start	Where does Piccadilly start?	no	Wrong answer	553
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	34	film, play, Julia Roberts, Richard Gere	In which films did Julia Roberts as well as Richard Gere play?	no	Wrong answer	6284
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	35	Ganges, start, country	In which country does the Ganges start?	no	Wrong answer	869
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	36	year, born, Rachel Stevens	In which year was Rachel Stevens born?	no	Wrong answer	663
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	38	birthplace, Bach	Where was Bach born?	no	Correct answer	815
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	40	first, climb, mount Everest	Who was the first to climb Mount Everest?	no	Correct answer	1077
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	41	How many people, Poland	How many people live in Poland?	no	Wrong answer	1108
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	42	location, Houses of Parliament	What is the location of the Houses of Parliament?	no	Partial answer	602
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	44	Limerick Lake, country	In which country is the Limerick Lake?	no	Correct answer	1363
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	48	create, Family Guy	Who created Family Guy?	no	Wrong answer	804
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	49	Suriname, official language	What is the official language of Suriname?	no	Wrong answer	568
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	50	write, song, Hotel California	Who wrote the song Hotel California?	no	Wrong answer	6006
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	51	actor, starring, movie, direct, William Shatner	Give me all actors starring in movies directed by William Shatner.	no	Wrong answer	3798
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	52	ingredients, chocolate chip cookie	What is in a chocolate chip cookie?	no	Partial answer	546
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	54	carrot cake, ingredients	Which ingredients do I need for carrot cake?	no	Partial answer	798
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	55	Neymar, play, Real Madrid	Does Neymar play for Real Madrid?	no	Wrong answer	12242
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	56	computer scientist, win, oscar	Which computer scientist won an oscar?	no	Wrong answer	830
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	58	MI6, headquarters, city, UK	In which UK city are the headquarters of the MI6?	no	Wrong answer	573
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	60	IYCM, stand for	What does IYCM stand for?	no	Wrong answer	549
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	61	dissolve, Ming dynasty	When did the Ming dynasty dissolve?	no	Wrong answer	622
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	62	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos!	no	Wrong answer	1299
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	63	total population, Melbourne Florida	What is the total population of Melbourne, Florida?	no	Wrong answer	34741
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	65	country, Mount Everest	What country is Mount Everest in?	no	Wrong answer	1178
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	66	Australia, largest city	What is the largest city in Australia?	no	Wrong answer	583
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	67	launch pad, operate, NASA	Give me all launch pads operated by NASA.	no	Wrong answer	785
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	68	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	564
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	69	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos.	no	Wrong answer	1324
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	70	Batman, creator	Who created Batman?	no	Correct answer	812
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	71	play, Gus Fring, Breaking Bad	Who played Gus Fring in Breaking Bad?	no	Wrong answer	825
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	72	GIMP, programming language	In which programming language is GIMP written?	no	Wrong answer	547
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	73	ancient empire, pay, cocoa beans	In which ancient empire could you pay with cocoa beans?	no	Wrong answer	806
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	74	Forbes, editor	Who is the editor of Forbes?	no	Correct answer	825
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	75	Australia, capital, people, live	How many people live in the capital of Australia?	no	Wrong answer	1480
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	76	professional surfer, born, Australia	Which professional surfers were born in Australia?	no	Wrong answer	1078
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	77	electronics companies, founded, Beijing	Which electronics companies were founded in Beijing?	no	Wrong answer	663
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	78	video game, publish, Mean Hamster Software	Give me all video games published by Mean Hamster Software.	no	Wrong answer	560
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	79	own, Aldi	How many Aldi stores are there?	no	Wrong answer	556
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	80	capital, Cameroon	What is the capital of Cameroon?	no	Wrong answer	1253
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	83	movie, direct, Francis Ford Coppola	Give me all movies directed by Francis Ford Coppola.	no	Wrong answer	673
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	88	Elvis Presley, grandchildren	Give me the grandchildren of Elvis Presley.	no	Wrong answer	815
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	89	movies, starring, Mickey Rourke, directed, Guy Ritchie	Which movies starring Mickey Rourke were directed by Guy Ritchie?	no	Wrong answer	2286
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	90	Dracula, creator, die	When did Dracula's creator die?	no	Wrong answer	1043
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	91	Miffy, creator, country	Which country does the creator of Miffy come from?	no	Wrong answer	1205
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	92	real name, Batman	What is Batman's real name?	no	Wrong answer	742
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	93	form of government, Russia	What form of government does Russia have?	no	Wrong answer	561
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	95	record label, Canadian, Grunge	Give me all Canadian Grunge record labels.	no	Wrong answer	568
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	97	Margaret Thatcher, child	List the children of Margaret Thatcher.	no	Correct answer	556
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	98	region, Melon de Bourgogne	From which region is the Melon de Bourgogne?	no	Wrong answer	576
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	102	game, GMT	List all games by GMT.	no	Wrong answer	553
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	104	airports, Yeti Airlines	Which airports does Yeti Airlines serve?	no	Wrong answer	60936
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	106	color, express, loyalty	What color expresses loyalty?	no	Wrong answer	826
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	108	Wikipedia, created	Who created Wikipedia?	no	Wrong answer	552
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	112	president, Eritrea	Who is the president of Eritrea?	no	Wrong answer	1051
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	113	film, Stanley Kubrick, direct	Which films did Stanley Kubrick direct?	no	Wrong answer	552
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	114	Titanic, completion date	When was the Titanic completed?	no	Correct answer	555
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	115	how many, pages, War and Peace	How many pages does War and Peace have?	no	Wrong answer	541
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	117	highest, mountain, Italy	What is the highest mountain in Italy?	no	Wrong answer	578
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	118	Claudia Schiffer, tall	How tall is Claudia Schiffer?	no	Correct answer	812
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	119	John F. Kennedy, vice president	Who was John F. Kennedy's vice president?	no	Correct answer	4999
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	120	subsidiary, Lufthansa, serve, Dortmund, Berlin Tegel	Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?	no	Wrong answer	550937
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	121	John F. Kennedy, successor	Who was the successor of John F. Kennedy?	no	Correct answer	839
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	122	compose, soundtrack, Cameron's Titanic	Who composed the soundtrack for Cameron's Titanic?	no	Wrong answer	571
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	125	time zone, Rome	In which time zone is Rome?	no	Wrong answer	567
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	126	currency, China	Give me the currency of China.	no	Wrong answer	578
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	127	developers, DBpedia	Who are the developers of DBpedia?	no	Correct answer	556
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	129	king, the Netherlands	Who is the king of the Netherlands?	no	Wrong answer	903
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	130	city, Nikos Kazantzakis, die	In which city did Nikos Kazantzakis die?	no	Wrong answer	567
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	132	list, critically endangered birds	Give me a list of all critically endangered birds.	no	Wrong answer	560
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	133	inhabitants, largest city, Canada	How many inhabitants does the largest city in Canada have?	no	Wrong answer	589
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	134	Lawrence of Arabia, military conflict	In which military conflicts did Lawrence of Arabia participate?	no	Wrong answer	20459
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	136	Nile, start, country	In which country does the Nile start?	no	Wrong answer	12393
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	138	companies, produce, hovercrafts	Which companies produce hovercrafts?	no	Wrong answer	889
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	140	city, born, president of Montenegro	In which city was the president of Montenegro born?	no	Wrong answer	568
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	141	country, born, Bill Gates	Which country was Bill Gates born in?	no	Wrong answer	751
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	142	which countries, speak, Japanese	In which countries do people speak Japanese?	no	Wrong answer	802
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	143	book, wrote, Muhammad Ali	Show me the book that Muhammad Ali wrote.	no	Wrong answer	666
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	145	Berlin, area code	What is the area code of Berlin?	no	Wrong answer	570
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	146	actor, starring, Last Action Hero	Give me all actors starring in Last Action Hero.	no	Wrong answer	354403
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	147	San Francisco, nickname	What are the nicknames of San Francisco?	no	Wrong answer	1352
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	150	television show, create, Walt Disney	Which television shows were created by Walt Disney?	no	Wrong answer	591
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	152	country, Sitecore	What country is Sitecore from?	no	Wrong answer	760
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	153	wife, Lance Bass	Whom did Lance Bass marry?	no	Correct answer	806
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	154	capital, Canada	What is the capital of Canada?	no	Wrong answer	21297
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	155	person, inspiring, Vincent van Gogh	Who was Vincent van Gogh inspired by?	no	Wrong answer	2690
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	156	city, John F. Kennedy, die	In which city did John F. Kennedy die?	no	Wrong answer	566
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	158	writer, Game of Thrones	Who wrote the Game of Thrones theme?	no	Wrong answer	8239
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	159	Brooklyn Bridge, design	Who designed the Brooklyn Bridge?	no	Wrong answer	1082
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	160	Boris Becker, end career	When did Boris Becker end his active career?	no	Wrong answer	566
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	161	grape types, grow, Oregon	Which types of grapes grow in Oregon?	no	Wrong answer	563
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	162	tall, Michael Jordan	How tall is Michael Jordan?	no	Wrong answer	830
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	163	party, mayor, Paris, belong	To which party does the mayor of Paris belong?	no	Wrong answer	565
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	164	wrote, book, The pillars of the Earth	Who wrote the book The Pillars of the Earth?	no	Wrong answer	940
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	165	United States, 16th president	Who was the 16th president of the United States?	no	Wrong answer	13027
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	166	Mount Everest, high	How high is the Mount Everest?	no	Wrong answer	1071
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	167	doctoral supervisor, Albert Einstein	Who was the doctoral supervisor of Albert Einstein?	no	Correct answer	1071
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	168	city, live, Sylvester Stallone	In which city does Sylvester Stallone live?	no	Wrong answer	1082
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	169	Czech republic, currency	What is the currency of the Czech Republic?	no	Wrong answer	552
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	172	son, Sonny and Cher	Who is the son of Sonny and Cher?	no	Correct answer	817
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	173	city, headquarters of the United Nations	In which city are the headquarters of the United Nations?	no	Wrong answer	838
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	174	founder, Penguin Books	Who is the founder of Penguin Books?	no	Correct answer	552
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	175	Jack Wolfskin, founded	When was Jack Wolfskin founded?	no	Wrong answer	812
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	176	mayor, Rotterdam	Who is the mayor of Rotterdam?	no	Wrong answer	1234
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	177	Swedish, oceanographer	Give me all Swedish oceanographers.	no	Wrong answer	561
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	178	autobiography, Hemingway	Show me Hemingway's autobiography.	no	Correct answer	816
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	179	Juan Carlos I, wife, parents	Who are the parents of the wife of Juan Carlos I?	no	Wrong answer	828
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	184	parents, Queen Victoria	Who were the parents of Queen Victoria?	no	Wrong answer	589
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	189	Fort Knox, located	Where is Fort Knox located?	no	Correct answer	551
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	191	where, Syngman Rhee, buried	Where is Syngman Rhee buried?	no	Correct answer	816
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	192	timezone, San Pedro de Atacama	What is the timezone in San Pedro de Atacama?	no	Wrong answer	1340
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	193	artistic movement, painter, The Three Dancers	To which artistic movement did the painter of The Three Dancers belong?	no	Wrong answer	4444
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	194	scientist, known for, Manhattan Project, Nobel Peace Prize	Which scientist is known for the Manhattan Project and the Nobel Peace Prize?	no	Wrong answer	5151
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	195	books, Asimov, Foundation series	Show me all books in Asimov's Foundation series.	no	Wrong answer	965
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	198	high, Yokohama Marine Tower	How high is the Yokohama Marine Tower?	no	Correct answer	1067
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	201	video game, World of Warcraft, develop	Who developed the video game World of Warcraft?	no	Wrong answer	827
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	202	pope, founded, Vatican Television	Who was the pope that founded the Vatican Television?	no	Wrong answer	974
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	203	Harold and Maude, compose, music	Who composed the music for Harold and Maude?	no	Wrong answer	714
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	204	member, Prodigy	Give me all members of Prodigy.	no	Wrong answer	553
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	205	starring, Spanish movies, produced, Benicio del Toro	Who is starring in Spanish movies produced by Benicio del Toro?	no	Wrong answer	23205
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	206	subsidiary, TUI Travel, serve, Glasgow, Dublin	Which subsidiary of TUI Travel serves both Glasgow and Dublin?	no	Wrong answer	42118
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	207	country, located, Mecca	In which country is Mecca located?	no	Wrong answer	1373
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	210	professional surfer, born, Philippines	Which professional surfers were born on the Philippines?	no	Wrong answer	1063
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	211	five boroughs, New York	What are the five boroughs of New York?	no	Wrong answer	1060
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	213	date, princess Diana, died	When did princess Diana die?	no	Wrong answer	552
+A	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	214	produced, France, sparkling wine	Where in France is sparkling wine produced?	no	Wrong answer	566
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	0	Battle of Gettysburg	When was the Battle of Gettysburg?	no	Wrong answer	567
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	1	musicals, music by, Elton John	List all the musicals with music by Elton John.	no	Correct answer	8734
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	2	high, lighthouse in Colombo	How high is the lighthouse in Colombo?	no	Wrong answer	828
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	3	U.S. president, Lincoln, wife	Who was the wife of U.S. president Lincoln?	no	Wrong answer	5007
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	4	host, BBC Wildlife Specials	Who is the host of the BBC Wildlife Specials?	no	Wrong answer	13784
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	5	cost, Pulp Fiction	How much did Pulp Fiction cost?	no	Wrong answer	838
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	6	city, Heineken brewery	In what city is the Heineken brewery?	no	Wrong answer	567
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	7	when, Operation Overlord, commence	When did Operation Overlord commence?	no	Wrong answer	568
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	8	city, Chile Route 68, ends	In which city does the Chile Route 68 end?	no	Wrong answer	561
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	9	developer, Slack	Who developed Slack?	no	Wrong answer	554
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	10	married to, president Chirac	Who was married to president Chirac?	no	Wrong answer	551
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	11	Bruce Carver, die	What did Bruce Carver die from?	no	Wrong answer	267767
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	13	Weser, flow through, city	Which cities does the Weser flow through?	no	Wrong answer	3153
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	14	How many seats, stadium of FC Porto	How many seats does the home stadium of FC Porto have?	no	Wrong answer	70261
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	15	Robert Kennedy, daughter, married	Who is the daughter of Robert Kennedy married to?	no	Wrong answer	5912
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	16	book, Kerouac, publish, Viking Press	Which books by Kerouac were published by Viking Press?	no	Wrong answer	769
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	17	Amazon Eve, tall	How tall is Amazon Eve?	no	Correct answer	790
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	18	museum, Scream, Munch	Which museum exhibits The Scream by Munch?	no	Wrong answer	826
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	19	wrote, book, The pillars of the Earth	Who wrote the book Les Piliers de la terre?	no	Wrong answer	1319
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	21	discoverer, Ceres	Who discovered Ceres?	no	Correct answer	549
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	22	river, cross, Brooklyn Bridge	Which river does the Brooklyn Bridge cross?	no	Correct answer	654
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	25	mayor, Paris	Who is the mayor of Paris?	no	Wrong answer	573
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	26	coach, ice hockey team, Ankara	Who is the coach of Ankara's ice hockey team?	no	Wrong answer	5064
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	27	mayor, capital, French Polynesia	Who is the mayor of the capital of French Polynesia?	no	Wrong answer	546
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	28	Douglas Hofstadter, award	Which awards did Douglas Hofstadter win?	no	Correct answer	719
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	29	Lego Movie, cost	How much did the Lego Movie cost?	no	Wrong answer	553
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	30	Piccadilly, start	Where does Piccadilly start?	no	Wrong answer	553
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	34	film, play, Julia Roberts, Richard Gere	In which films did Julia Roberts as well as Richard Gere play?	no	Wrong answer	12549
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	35	Ganges, start, country	In which country does the Ganges start?	no	Wrong answer	10233
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	36	year, born, Rachel Stevens	In which year was Rachel Stevens born?	no	Wrong answer	1060
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	38	birthplace, Bach	Where was Bach born?	no	Correct answer	807
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	40	first, climb, mount Everest	Who was the first to climb Mount Everest?	no	Wrong answer	1171
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	41	How many people, Poland	How many people live in Poland?	no	Wrong answer	835
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	42	location, Houses of Parliament	What is the location of the Houses of Parliament?	no	Wrong answer	7331
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	44	Limerick Lake, country	In which country is the Limerick Lake?	no	Correct answer	2349
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	48	create, Family Guy	Who created Family Guy?	no	Wrong answer	558
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	49	Suriname, official language	What is the official language of Suriname?	no	Wrong answer	555
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	50	write, song, Hotel California	Who wrote the song Hotel California?	no	Wrong answer	6317
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	51	actor, starring, movie, direct, William Shatner	Give me all actors starring in movies directed by William Shatner.	no	Wrong answer	30393
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	52	ingredients, chocolate chip cookie	What is in a chocolate chip cookie?	no	Partial answer	1368
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	54	carrot cake, ingredients	Which ingredients do I need for carrot cake?	no	Partial answer	558
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	55	Neymar, play, Real Madrid	Does Neymar play for Real Madrid?	no	Wrong answer	14299
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	56	computer scientist, win, oscar	Which computer scientist won an oscar?	no	Wrong answer	1078
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	58	MI6, headquarters, city, UK	In which UK city are the headquarters of the MI6?	no	Wrong answer	576
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	60	IYCM, stand for	What does IYCM stand for?	no	Wrong answer	550
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	61	dissolve, Ming dynasty	When did the Ming dynasty dissolve?	no	Wrong answer	619
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	62	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos!	no	Wrong answer	1280
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	63	total population, Melbourne Florida	What is the total population of Melbourne, Florida?	no	Wrong answer	35892
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	65	country, Mount Everest	What country is Mount Everest in?	no	Wrong answer	1583
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	66	Australia, largest city	What is the largest city in Australia?	no	Wrong answer	571
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	67	launch pad, operate, NASA	Give me all launch pads operated by NASA.	no	Wrong answer	2279
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	68	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	562
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	69	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos.	no	Wrong answer	1270
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	70	Batman, creator	Who created Batman?	no	Correct answer	798
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	71	play, Gus Fring, Breaking Bad	Who played Gus Fring in Breaking Bad?	no	Wrong answer	1071
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	72	GIMP, programming language	In which programming language is GIMP written?	no	Wrong answer	543
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	73	ancient empire, pay, cocoa beans	In which ancient empire could you pay with cocoa beans?	no	Wrong answer	809
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	74	Forbes, editor	Who is the editor of Forbes?	no	Correct answer	1068
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	75	Australia, capital, people, live	How many people live in the capital of Australia?	no	Wrong answer	1208
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	76	professional surfer, born, Australia	Which professional surfers were born in Australia?	no	Wrong answer	1069
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	77	electronics companies, founded, Beijing	Which electronics companies were founded in Beijing?	no	Wrong answer	1637
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	78	video game, publish, Mean Hamster Software	Give me all video games published by Mean Hamster Software.	no	Wrong answer	560
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	79	own, Aldi	How many Aldi stores are there?	no	Wrong answer	556
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	80	capital, Cameroon	What is the capital of Cameroon?	no	Wrong answer	1210
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	83	movie, direct, Francis Ford Coppola	Give me all movies directed by Francis Ford Coppola.	no	Wrong answer	2980
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	88	Elvis Presley, grandchildren	Give me the grandchildren of Elvis Presley.	no	Wrong answer	793
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	89	movies, starring, Mickey Rourke, directed, Guy Ritchie	Which movies starring Mickey Rourke were directed by Guy Ritchie?	no	Wrong answer	34950
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	90	Dracula, creator, die	When did Dracula's creator die?	no	Wrong answer	568898
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	91	Miffy, creator, country	Which country does the creator of Miffy come from?	no	Wrong answer	1241
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	92	real name, Batman	What is Batman's real name?	no	Wrong answer	4089
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	93	form of government, Russia	What form of government does Russia have?	no	Wrong answer	42660
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	95	record label, Canadian, Grunge	Give me all Canadian Grunge record labels.	no	Wrong answer	1088
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	97	Margaret Thatcher, child	List the children of Margaret Thatcher.	no	Correct answer	557
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	98	region, Melon de Bourgogne	From which region is the Melon de Bourgogne?	no	Wrong answer	580
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	102	game, GMT	List all games by GMT.	no	Wrong answer	550
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	104	airports, Yeti Airlines	Which airports does Yeti Airlines serve?	no	Wrong answer	74433
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	106	color, express, loyalty	What color expresses loyalty?	no	Wrong answer	4094
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	108	Wikipedia, created	Who created Wikipedia?	no	Wrong answer	789
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	112	president, Eritrea	Who is the president of Eritrea?	no	Wrong answer	1045
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	113	film, Stanley Kubrick, direct	Which films did Stanley Kubrick direct?	no	Wrong answer	557
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	114	Titanic, completion date	When was the Titanic completed?	no	Correct answer	555
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	115	how many, pages, War and Peace	How many pages does War and Peace have?	no	Wrong answer	543
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	117	highest, mountain, Italy	What is the highest mountain in Italy?	no	Wrong answer	571
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	118	Claudia Schiffer, tall	How tall is Claudia Schiffer?	no	Correct answer	808
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	119	John F. Kennedy, vice president	Who was John F. Kennedy's vice president?	no	Correct answer	4525
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	120	subsidiary, Lufthansa, serve, Dortmund, Berlin Tegel	Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?	no	Wrong answer	496846
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	121	John F. Kennedy, successor	Who was the successor of John F. Kennedy?	no	Correct answer	1087
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	122	compose, soundtrack, Cameron's Titanic	Who composed the soundtrack for Cameron's Titanic?	no	Wrong answer	581
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	125	time zone, Rome	In which time zone is Rome?	no	Wrong answer	564
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	126	currency, China	Give me the currency of China.	no	Wrong answer	585
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	127	developers, DBpedia	Who are the developers of DBpedia?	no	Correct answer	623
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	129	king, the Netherlands	Who is the king of the Netherlands?	no	Wrong answer	603
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	130	city, Nikos Kazantzakis, die	In which city did Nikos Kazantzakis die?	no	Wrong answer	565
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	132	list, critically endangered birds	Give me a list of all critically endangered birds.	no	Wrong answer	558
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	133	inhabitants, largest city, Canada	How many inhabitants does the largest city in Canada have?	no	Wrong answer	588
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	134	Lawrence of Arabia, military conflict	In which military conflicts did Lawrence of Arabia participate?	no	Wrong answer	14853
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	136	Nile, start, country	In which country does the Nile start?	no	Wrong answer	2964
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	138	companies, produce, hovercrafts	Which companies produce hovercrafts?	no	Wrong answer	669
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	140	city, born, president of Montenegro	In which city was the president of Montenegro born?	no	Wrong answer	564
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	141	country, born, Bill Gates	Which country was Bill Gates born in?	no	Wrong answer	927
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	142	which countries, speak, Japanese	In which countries do people speak Japanese?	no	Wrong answer	973
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	143	book, wrote, Muhammad Ali	Show me the book that Muhammad Ali wrote.	no	Wrong answer	649
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	145	Berlin, area code	What is the area code of Berlin?	no	Wrong answer	560
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	146	actor, starring, Last Action Hero	Give me all actors starring in Last Action Hero.	no	Wrong answer	186595
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	147	San Francisco, nickname	What are the nicknames of San Francisco?	no	Wrong answer	1115
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	150	television show, create, Walt Disney	Which television shows were created by Walt Disney?	no	Wrong answer	592
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	152	country, Sitecore	What country is Sitecore from?	no	Wrong answer	914
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	153	wife, Lance Bass	Whom did Lance Bass marry?	no	Correct answer	804
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	154	capital, Canada	What is the capital of Canada?	no	Wrong answer	17514
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	155	person, inspiring, Vincent van Gogh	Who was Vincent van Gogh inspired by?	no	Wrong answer	2276
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	156	city, John F. Kennedy, die	In which city did John F. Kennedy die?	no	Wrong answer	565
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	158	writer, Game of Thrones	Who wrote the Game of Thrones theme?	no	Wrong answer	819
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	159	Brooklyn Bridge, design	Who designed the Brooklyn Bridge?	no	Wrong answer	1580
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	160	Boris Becker, end career	When did Boris Becker end his active career?	no	Wrong answer	556
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	161	grape types, grow, Oregon	Which types of grapes grow in Oregon?	no	Wrong answer	557
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	162	tall, Michael Jordan	How tall is Michael Jordan?	no	Wrong answer	823
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	163	party, mayor, Paris, belong	To which party does the mayor of Paris belong?	no	Wrong answer	571
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	164	wrote, book, The pillars of the Earth	Who wrote the book The Pillars of the Earth?	no	Wrong answer	1292
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	165	United States, 16th president	Who was the 16th president of the United States?	no	Wrong answer	13012
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	166	Mount Everest, high	How high is the Mount Everest?	no	Wrong answer	1080
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	167	doctoral supervisor, Albert Einstein	Who was the doctoral supervisor of Albert Einstein?	no	Correct answer	810
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	168	city, live, Sylvester Stallone	In which city does Sylvester Stallone live?	no	Wrong answer	1075
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	169	Czech republic, currency	What is the currency of the Czech Republic?	no	Wrong answer	546
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	172	son, Sonny and Cher	Who is the son of Sonny and Cher?	no	Correct answer	802
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	173	city, headquarters of the United Nations	In which city are the headquarters of the United Nations?	no	Wrong answer	863
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	174	founder, Penguin Books	Who is the founder of Penguin Books?	no	Correct answer	556
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	175	Jack Wolfskin, founded	When was Jack Wolfskin founded?	no	Wrong answer	750
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	176	mayor, Rotterdam	Who is the mayor of Rotterdam?	no	Wrong answer	565
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	177	Swedish, oceanographer	Give me all Swedish oceanographers.	no	Wrong answer	567
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	178	autobiography, Hemingway	Show me Hemingway's autobiography.	no	Correct answer	800
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	179	Juan Carlos I, wife, parents	Who are the parents of the wife of Juan Carlos I?	no	Wrong answer	1079
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	184	parents, Queen Victoria	Who were the parents of Queen Victoria?	no	Wrong answer	905
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	189	Fort Knox, located	Where is Fort Knox located?	no	Wrong answer	6580
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	191	where, Syngman Rhee, buried	Where is Syngman Rhee buried?	no	Correct answer	1057
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	192	timezone, San Pedro de Atacama	What is the timezone in San Pedro de Atacama?	no	Wrong answer	1336
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	193	artistic movement, painter, The Three Dancers	To which artistic movement did the painter of The Three Dancers belong?	no	Wrong answer	4189
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	194	scientist, known for, Manhattan Project, Nobel Peace Prize	Which scientist is known for the Manhattan Project and the Nobel Peace Prize?	no	Wrong answer	5114
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	195	books, Asimov, Foundation series	Show me all books in Asimov's Foundation series.	no	Wrong answer	1040
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	198	high, Yokohama Marine Tower	How high is the Yokohama Marine Tower?	no	Wrong answer	559
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	201	video game, World of Warcraft, develop	Who developed the video game World of Warcraft?	no	Wrong answer	561
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	202	pope, founded, Vatican Television	Who was the pope that founded the Vatican Television?	no	Wrong answer	2060
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	203	Harold and Maude, compose, music	Who composed the music for Harold and Maude?	no	Wrong answer	4726
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	204	member, Prodigy	Give me all members of Prodigy.	no	Wrong answer	542
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	205	starring, Spanish movies, produced, Benicio del Toro	Who is starring in Spanish movies produced by Benicio del Toro?	no	Wrong answer	626583
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	206	subsidiary, TUI Travel, serve, Glasgow, Dublin	Which subsidiary of TUI Travel serves both Glasgow and Dublin?	no	Wrong answer	43783
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	207	country, located, Mecca	In which country is Mecca located?	no	Wrong answer	5597
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	210	professional surfer, born, Philippines	Which professional surfers were born on the Philippines?	no	Wrong answer	1571
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	211	five boroughs, New York	What are the five boroughs of New York?	no	Wrong answer	1345
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	213	date, princess Diana, died	When did princess Diana die?	no	Wrong answer	262278
+A	english_dbpedia_synonyms	qald-7-train-multilingual.json	214	produced, France, sparkling wine	Where in France is sparkling wine produced?	no	Wrong answer	841
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	0	Battle of Gettysburg	When was the Battle of Gettysburg?	no	Wrong answer	797
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	1	musicals, music by, Elton John	List all the musicals with music by Elton John.	no	Correct answer	611
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	2	high, lighthouse in Colombo	How high is the lighthouse in Colombo?	no	Wrong answer	555
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	3	U.S. president, Lincoln, wife	Who was the wife of U.S. president Lincoln?	no	Wrong answer	886
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	4	host, BBC Wildlife Specials	Who is the host of the BBC Wildlife Specials?	no	Wrong answer	665
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	5	cost, Pulp Fiction	How much did Pulp Fiction cost?	no	Wrong answer	553
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	6	city, Heineken brewery	In what city is the Heineken brewery?	no	Wrong answer	556
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	7	when, Operation Overlord, commence	When did Operation Overlord commence?	no	Correct answer	555
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	8	city, Chile Route 68, ends	In which city does the Chile Route 68 end?	no	Wrong answer	602
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	9	developer, Slack	Who developed Slack?	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	10	married to, president Chirac	Who was married to president Chirac?	no	Wrong answer	823
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	11	Bruce Carver, die	What did Bruce Carver die from?	no	Correct answer	548
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	13	Weser, flow through, city	Which cities does the Weser flow through?	no	Wrong answer	556
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	14	How many seats, stadium of FC Porto	How many seats does the home stadium of FC Porto have?	no	Wrong answer	620
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	15	Robert Kennedy, daughter, married	Who is the daughter of Robert Kennedy married to?	no	Wrong answer	558
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	16	book, Kerouac, publish, Viking Press	Which books by Kerouac were published by Viking Press?	no	Correct answer	615
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	17	Amazon Eve, tall	How tall is Amazon Eve?	no	Correct answer	556
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	18	museum, Scream, Munch	Which museum exhibits The Scream by Munch?	no	Wrong answer	795
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	19	wrote, book, The pillars of the Earth	Who wrote the book Les Piliers de la terre?	no	Wrong answer	624
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	21	discoverer, Ceres	Who discovered Ceres?	no	Correct answer	597
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	22	river, cross, Brooklyn Bridge	Which river does the Brooklyn Bridge cross?	no	Wrong answer	789
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	25	mayor, Paris	Who is the mayor of Paris?	no	Wrong answer	550
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	26	coach, ice hockey team, Ankara	Who is the coach of Ankara's ice hockey team?	no	Wrong answer	664
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	27	mayor, capital, French Polynesia	Who is the mayor of the capital of French Polynesia?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	28	Douglas Hofstadter, award	Which awards did Douglas Hofstadter win?	no	Correct answer	561
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	29	Lego Movie, cost	How much did the Lego Movie cost?	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	30	Piccadilly, start	Where does Piccadilly start?	no	Wrong answer	553
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	34	film, play, Julia Roberts, Richard Gere	In which films did Julia Roberts as well as Richard Gere play?	no	Wrong answer	737
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	35	Ganges, start, country	In which country does the Ganges start?	no	Wrong answer	558
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	36	year, born, Rachel Stevens	In which year was Rachel Stevens born?	no	Wrong answer	573
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	38	birthplace, Bach	Where was Bach born?	no	Correct answer	549
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	40	first, climb, mount Everest	Who was the first to climb Mount Everest?	no	Correct answer	795
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	41	How many people, Poland	How many people live in Poland?	no	Correct answer	559
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	42	location, Houses of Parliament	What is the location of the Houses of Parliament?	no	Partial answer	569
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	44	Limerick Lake, country	In which country is the Limerick Lake?	no	Correct answer	611
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	48	create, Family Guy	Who created Family Guy?	no	Wrong answer	559
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	49	Suriname, official language	What is the official language of Suriname?	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	50	write, song, Hotel California	Who wrote the song Hotel California?	no	Wrong answer	593
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	51	actor, starring, movie, direct, William Shatner	Give me all actors starring in movies directed by William Shatner.	no	Wrong answer	667
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	52	ingredients, chocolate chip cookie	What is in a chocolate chip cookie?	no	Partial answer	553
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	54	carrot cake, ingredients	Which ingredients do I need for carrot cake?	no	Partial answer	554
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	55	Neymar, play, Real Madrid	Does Neymar play for Real Madrid?	no	Wrong answer	714
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	56	computer scientist, win, oscar	Which computer scientist won an oscar?	no	Wrong answer	550
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	58	MI6, headquarters, city, UK	In which UK city are the headquarters of the MI6?	no	Wrong answer	585
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	60	IYCM, stand for	What does IYCM stand for?	no	Wrong answer	551
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	61	dissolve, Ming dynasty	When did the Ming dynasty dissolve?	no	Wrong answer	567
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	62	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos!	no	Wrong answer	621
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	63	total population, Melbourne Florida	What is the total population of Melbourne, Florida?	no	Wrong answer	716
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	65	country, Mount Everest	What country is Mount Everest in?	no	Wrong answer	588
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	66	Australia, largest city	What is the largest city in Australia?	no	Wrong answer	567
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	67	launch pad, operate, NASA	Give me all launch pads operated by NASA.	no	Correct answer	603
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	68	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	556
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	69	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos.	no	Wrong answer	608
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	70	Batman, creator	Who created Batman?	no	Correct answer	554
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	71	play, Gus Fring, Breaking Bad	Who played Gus Fring in Breaking Bad?	no	Wrong answer	553
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	72	GIMP, programming language	In which programming language is GIMP written?	no	Wrong answer	550
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	73	ancient empire, pay, cocoa beans	In which ancient empire could you pay with cocoa beans?	no	Wrong answer	556
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	74	Forbes, editor	Who is the editor of Forbes?	no	Correct answer	557
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	75	Australia, capital, people, live	How many people live in the capital of Australia?	no	Wrong answer	609
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	76	professional surfer, born, Australia	Which professional surfers were born in Australia?	no	Wrong answer	616
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	77	electronics companies, founded, Beijing	Which electronics companies were founded in Beijing?	no	Wrong answer	591
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	78	video game, publish, Mean Hamster Software	Give me all video games published by Mean Hamster Software.	no	Wrong answer	557
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	79	own, Aldi	How many Aldi stores are there?	no	Wrong answer	560
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	80	capital, Cameroon	What is the capital of Cameroon?	no	Wrong answer	597
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	83	movie, direct, Francis Ford Coppola	Give me all movies directed by Francis Ford Coppola.	no	Wrong answer	581
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	88	Elvis Presley, grandchildren	Give me the grandchildren of Elvis Presley.	no	Wrong answer	553
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	89	movies, starring, Mickey Rourke, directed, Guy Ritchie	Which movies starring Mickey Rourke were directed by Guy Ritchie?	no	Wrong answer	734
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	90	Dracula, creator, die	When did Dracula's creator die?	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	91	Miffy, creator, country	Which country does the creator of Miffy come from?	no	Wrong answer	588
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	92	real name, Batman	What is Batman's real name?	no	Wrong answer	823
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	93	form of government, Russia	What form of government does Russia have?	no	Wrong answer	570
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	95	record label, Canadian, Grunge	Give me all Canadian Grunge record labels.	no	Wrong answer	572
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	97	Margaret Thatcher, child	List the children of Margaret Thatcher.	no	Correct answer	561
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	98	region, Melon de Bourgogne	From which region is the Melon de Bourgogne?	no	Wrong answer	567
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	102	game, GMT	List all games by GMT.	no	Wrong answer	550
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	104	airports, Yeti Airlines	Which airports does Yeti Airlines serve?	no	Wrong answer	600
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	106	color, express, loyalty	What color expresses loyalty?	no	Wrong answer	547
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	108	Wikipedia, created	Who created Wikipedia?	no	Wrong answer	808
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	112	president, Eritrea	Who is the president of Eritrea?	no	Wrong answer	605
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	113	film, Stanley Kubrick, direct	Which films did Stanley Kubrick direct?	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	114	Titanic, completion date	When was the Titanic completed?	no	Correct answer	559
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	115	how many, pages, War and Peace	How many pages does War and Peace have?	no	Wrong answer	539
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	117	highest, mountain, Italy	What is the highest mountain in Italy?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	118	Claudia Schiffer, tall	How tall is Claudia Schiffer?	no	Correct answer	557
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	119	John F. Kennedy, vice president	Who was John F. Kennedy's vice president?	no	Correct answer	600
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	120	subsidiary, Lufthansa, serve, Dortmund, Berlin Tegel	Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?	no	Wrong answer	1645
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	121	John F. Kennedy, successor	Who was the successor of John F. Kennedy?	no	Correct answer	553
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	122	compose, soundtrack, Cameron's Titanic	Who composed the soundtrack for Cameron's Titanic?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	125	time zone, Rome	In which time zone is Rome?	no	Wrong answer	564
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	126	currency, China	Give me the currency of China.	no	Wrong answer	568
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	127	developers, DBpedia	Who are the developers of DBpedia?	no	Correct answer	557
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	129	king, the Netherlands	Who is the king of the Netherlands?	no	Correct answer	567
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	130	city, Nikos Kazantzakis, die	In which city did Nikos Kazantzakis die?	no	Wrong answer	796
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	132	list, critically endangered birds	Give me a list of all critically endangered birds.	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	133	inhabitants, largest city, Canada	How many inhabitants does the largest city in Canada have?	no	Wrong answer	571
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	134	Lawrence of Arabia, military conflict	In which military conflicts did Lawrence of Arabia participate?	no	Wrong answer	610
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	136	Nile, start, country	In which country does the Nile start?	no	Wrong answer	680
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	138	companies, produce, hovercrafts	Which companies produce hovercrafts?	no	Wrong answer	582
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	140	city, born, president of Montenegro	In which city was the president of Montenegro born?	no	Wrong answer	563
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	141	country, born, Bill Gates	Which country was Bill Gates born in?	no	Wrong answer	576
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	142	which countries, speak, Japanese	In which countries do people speak Japanese?	no	Wrong answer	592
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	143	book, wrote, Muhammad Ali	Show me the book that Muhammad Ali wrote.	no	Correct answer	582
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	145	Berlin, area code	What is the area code of Berlin?	no	Wrong answer	560
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	146	actor, starring, Last Action Hero	Give me all actors starring in Last Action Hero.	no	Wrong answer	695
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	147	San Francisco, nickname	What are the nicknames of San Francisco?	no	Wrong answer	562
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	150	television show, create, Walt Disney	Which television shows were created by Walt Disney?	no	Wrong answer	811
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	152	country, Sitecore	What country is Sitecore from?	no	Wrong answer	579
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	153	wife, Lance Bass	Whom did Lance Bass marry?	no	Correct answer	546
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	154	capital, Canada	What is the capital of Canada?	no	Wrong answer	656
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	155	person, inspiring, Vincent van Gogh	Who was Vincent van Gogh inspired by?	no	Correct answer	607
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	156	city, John F. Kennedy, die	In which city did John F. Kennedy die?	no	Wrong answer	847
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	158	writer, Game of Thrones	Who wrote the Game of Thrones theme?	no	Wrong answer	621
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	159	Brooklyn Bridge, design	Who designed the Brooklyn Bridge?	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	160	Boris Becker, end career	When did Boris Becker end his active career?	no	Wrong answer	1426
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	161	grape types, grow, Oregon	Which types of grapes grow in Oregon?	no	Wrong answer	561
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	162	tall, Michael Jordan	How tall is Michael Jordan?	no	Correct answer	593
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	163	party, mayor, Paris, belong	To which party does the mayor of Paris belong?	no	Wrong answer	564
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	164	wrote, book, The pillars of the Earth	Who wrote the book The Pillars of the Earth?	no	Wrong answer	598
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	165	United States, 16th president	Who was the 16th president of the United States?	no	Wrong answer	682
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	166	Mount Everest, high	How high is the Mount Everest?	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	167	doctoral supervisor, Albert Einstein	Who was the doctoral supervisor of Albert Einstein?	no	Correct answer	550
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	168	city, live, Sylvester Stallone	In which city does Sylvester Stallone live?	no	Wrong answer	564
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	169	Czech republic, currency	What is the currency of the Czech Republic?	no	Wrong answer	570
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	172	son, Sonny and Cher	Who is the son of Sonny and Cher?	no	Correct answer	558
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	173	city, headquarters of the United Nations	In which city are the headquarters of the United Nations?	no	Wrong answer	564
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	174	founder, Penguin Books	Who is the founder of Penguin Books?	no	Correct answer	557
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	175	Jack Wolfskin, founded	When was Jack Wolfskin founded?	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	176	mayor, Rotterdam	Who is the mayor of Rotterdam?	no	Wrong answer	555
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	177	Swedish, oceanographer	Give me all Swedish oceanographers.	no	Wrong answer	560
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	178	autobiography, Hemingway	Show me Hemingway's autobiography.	no	Correct answer	581
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	179	Juan Carlos I, wife, parents	Who are the parents of the wife of Juan Carlos I?	no	Wrong answer	558
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	184	parents, Queen Victoria	Who were the parents of Queen Victoria?	no	Correct answer	567
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	189	Fort Knox, located	Where is Fort Knox located?	no	Correct answer	556
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	191	where, Syngman Rhee, buried	Where is Syngman Rhee buried?	no	Correct answer	554
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	192	timezone, San Pedro de Atacama	What is the timezone in San Pedro de Atacama?	no	Correct answer	797
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	193	artistic movement, painter, The Three Dancers	To which artistic movement did the painter of The Three Dancers belong?	no	Wrong answer	640
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	194	scientist, known for, Manhattan Project, Nobel Peace Prize	Which scientist is known for the Manhattan Project and the Nobel Peace Prize?	no	Wrong answer	633
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	195	books, Asimov, Foundation series	Show me all books in Asimov's Foundation series.	no	Wrong answer	552
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	198	high, Yokohama Marine Tower	How high is the Yokohama Marine Tower?	no	Correct answer	555
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	201	video game, World of Warcraft, develop	Who developed the video game World of Warcraft?	no	Wrong answer	555
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	202	pope, founded, Vatican Television	Who was the pope that founded the Vatican Television?	no	Correct answer	604
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	203	Harold and Maude, compose, music	Who composed the music for Harold and Maude?	no	Wrong answer	584
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	204	member, Prodigy	Give me all members of Prodigy.	no	Wrong answer	554
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	205	starring, Spanish movies, produced, Benicio del Toro	Who is starring in Spanish movies produced by Benicio del Toro?	no	Wrong answer	1170
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	206	subsidiary, TUI Travel, serve, Glasgow, Dublin	Which subsidiary of TUI Travel serves both Glasgow and Dublin?	no	Wrong answer	825
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	207	country, located, Mecca	In which country is Mecca located?	no	Wrong answer	831
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	210	professional surfer, born, Philippines	Which professional surfers were born on the Philippines?	no	Wrong answer	610
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	211	five boroughs, New York	What are the five boroughs of New York?	no	Wrong answer	607
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	213	date, princess Diana, died	When did princess Diana die?	no	Wrong answer	550
+B	english_dbpedia_no_synonyms	qald-7-train-multilingual.json	214	produced, France, sparkling wine	Where in France is sparkling wine produced?	no	Wrong answer	590
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	0	Battle of Gettysburg	When was the Battle of Gettysburg?	no	Wrong answer	562
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	1	musicals, music by, Elton John	List all the musicals with music by Elton John.	no	Correct answer	635
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	2	high, lighthouse in Colombo	How high is the lighthouse in Colombo?	no	Wrong answer	555
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	3	U.S. president, Lincoln, wife	Who was the wife of U.S. president Lincoln?	no	Wrong answer	619
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	4	host, BBC Wildlife Specials	Who is the host of the BBC Wildlife Specials?	no	Wrong answer	697
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	5	cost, Pulp Fiction	How much did Pulp Fiction cost?	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	6	city, Heineken brewery	In what city is the Heineken brewery?	no	Wrong answer	559
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	7	when, Operation Overlord, commence	When did Operation Overlord commence?	no	Wrong answer	559
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	8	city, Chile Route 68, ends	In which city does the Chile Route 68 end?	no	Wrong answer	559
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	9	developer, Slack	Who developed Slack?	no	Wrong answer	555
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	10	married to, president Chirac	Who was married to president Chirac?	no	Wrong answer	544
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	11	Bruce Carver, die	What did Bruce Carver die from?	no	Wrong answer	622
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	13	Weser, flow through, city	Which cities does the Weser flow through?	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	14	How many seats, stadium of FC Porto	How many seats does the home stadium of FC Porto have?	no	Wrong answer	702
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	15	Robert Kennedy, daughter, married	Who is the daughter of Robert Kennedy married to?	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	16	book, Kerouac, publish, Viking Press	Which books by Kerouac were published by Viking Press?	no	Correct answer	628
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	17	Amazon Eve, tall	How tall is Amazon Eve?	no	Correct answer	550
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	18	museum, Scream, Munch	Which museum exhibits The Scream by Munch?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	19	wrote, book, The pillars of the Earth	Who wrote the book Les Piliers de la terre?	no	Wrong answer	645
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	21	discoverer, Ceres	Who discovered Ceres?	no	Correct answer	549
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	22	river, cross, Brooklyn Bridge	Which river does the Brooklyn Bridge cross?	no	Wrong answer	576
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	25	mayor, Paris	Who is the mayor of Paris?	no	Wrong answer	566
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	26	coach, ice hockey team, Ankara	Who is the coach of Ankara's ice hockey team?	no	Wrong answer	637
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	27	mayor, capital, French Polynesia	Who is the mayor of the capital of French Polynesia?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	28	Douglas Hofstadter, award	Which awards did Douglas Hofstadter win?	no	Correct answer	566
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	29	Lego Movie, cost	How much did the Lego Movie cost?	no	Wrong answer	551
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	30	Piccadilly, start	Where does Piccadilly start?	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	34	film, play, Julia Roberts, Richard Gere	In which films did Julia Roberts as well as Richard Gere play?	no	Wrong answer	1905
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	35	Ganges, start, country	In which country does the Ganges start?	no	Wrong answer	695
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	36	year, born, Rachel Stevens	In which year was Rachel Stevens born?	no	Wrong answer	597
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	38	birthplace, Bach	Where was Bach born?	no	Correct answer	559
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	40	first, climb, mount Everest	Who was the first to climb Mount Everest?	no	Wrong answer	577
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	41	How many people, Poland	How many people live in Poland?	no	Correct answer	571
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	42	location, Houses of Parliament	What is the location of the Houses of Parliament?	no	Wrong answer	781
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	44	Limerick Lake, country	In which country is the Limerick Lake?	no	Correct answer	644
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	48	create, Family Guy	Who created Family Guy?	no	Wrong answer	804
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	49	Suriname, official language	What is the official language of Suriname?	no	Wrong answer	550
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	50	write, song, Hotel California	Who wrote the song Hotel California?	no	Wrong answer	601
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	51	actor, starring, movie, direct, William Shatner	Give me all actors starring in movies directed by William Shatner.	no	Wrong answer	2460
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	52	ingredients, chocolate chip cookie	What is in a chocolate chip cookie?	no	Partial answer	559
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	54	carrot cake, ingredients	Which ingredients do I need for carrot cake?	no	Partial answer	553
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	55	Neymar, play, Real Madrid	Does Neymar play for Real Madrid?	no	Wrong answer	907
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	56	computer scientist, win, oscar	Which computer scientist won an oscar?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	58	MI6, headquarters, city, UK	In which UK city are the headquarters of the MI6?	no	Wrong answer	589
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	60	IYCM, stand for	What does IYCM stand for?	no	Wrong answer	557
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	61	dissolve, Ming dynasty	When did the Ming dynasty dissolve?	no	Wrong answer	571
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	62	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos!	no	Wrong answer	622
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	63	total population, Melbourne Florida	What is the total population of Melbourne, Florida?	no	Wrong answer	717
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	65	country, Mount Everest	What country is Mount Everest in?	no	Wrong answer	630
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	66	Australia, largest city	What is the largest city in Australia?	no	Wrong answer	600
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	67	launch pad, operate, NASA	Give me all launch pads operated by NASA.	no	Partial answer	730
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	68	Tel Aviv, mayor	Who is the mayor of Tel Aviv?	no	Wrong answer	566
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	69	HBO, television series, Sopranos, first season, episode	List all episodes of the first season of the HBO television series The Sopranos.	no	Wrong answer	620
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	70	Batman, creator	Who created Batman?	no	Correct answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	71	play, Gus Fring, Breaking Bad	Who played Gus Fring in Breaking Bad?	no	Wrong answer	563
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	72	GIMP, programming language	In which programming language is GIMP written?	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	73	ancient empire, pay, cocoa beans	In which ancient empire could you pay with cocoa beans?	no	Wrong answer	567
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	74	Forbes, editor	Who is the editor of Forbes?	no	Correct answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	75	Australia, capital, people, live	How many people live in the capital of Australia?	no	Wrong answer	623
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	76	professional surfer, born, Australia	Which professional surfers were born in Australia?	no	Wrong answer	624
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	77	electronics companies, founded, Beijing	Which electronics companies were founded in Beijing?	no	Wrong answer	1235
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	78	video game, publish, Mean Hamster Software	Give me all video games published by Mean Hamster Software.	no	Wrong answer	803
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	79	own, Aldi	How many Aldi stores are there?	no	Wrong answer	557
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	80	capital, Cameroon	What is the capital of Cameroon?	no	Wrong answer	599
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	83	movie, direct, Francis Ford Coppola	Give me all movies directed by Francis Ford Coppola.	no	Wrong answer	803
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	88	Elvis Presley, grandchildren	Give me the grandchildren of Elvis Presley.	no	Wrong answer	555
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	89	movies, starring, Mickey Rourke, directed, Guy Ritchie	Which movies starring Mickey Rourke were directed by Guy Ritchie?	no	Wrong answer	3930
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	90	Dracula, creator, die	When did Dracula's creator die?	no	Wrong answer	589
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	91	Miffy, creator, country	Which country does the creator of Miffy come from?	no	Wrong answer	602
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	92	real name, Batman	What is Batman's real name?	no	Wrong answer	618
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	93	form of government, Russia	What form of government does Russia have?	no	Wrong answer	859
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	95	record label, Canadian, Grunge	Give me all Canadian Grunge record labels.	no	Wrong answer	1454
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	97	Margaret Thatcher, child	List the children of Margaret Thatcher.	no	Correct answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	98	region, Melon de Bourgogne	From which region is the Melon de Bourgogne?	no	Wrong answer	567
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	102	game, GMT	List all games by GMT.	no	Wrong answer	548
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	104	airports, Yeti Airlines	Which airports does Yeti Airlines serve?	no	Wrong answer	606
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	106	color, express, loyalty	What color expresses loyalty?	no	Wrong answer	585
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	108	Wikipedia, created	Who created Wikipedia?	no	Wrong answer	561
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	112	president, Eritrea	Who is the president of Eritrea?	no	Wrong answer	628
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	113	film, Stanley Kubrick, direct	Which films did Stanley Kubrick direct?	no	Wrong answer	559
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	114	Titanic, completion date	When was the Titanic completed?	no	Correct answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	115	how many, pages, War and Peace	How many pages does War and Peace have?	no	Wrong answer	783
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	117	highest, mountain, Italy	What is the highest mountain in Italy?	no	Wrong answer	569
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	118	Claudia Schiffer, tall	How tall is Claudia Schiffer?	no	Correct answer	554
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	119	John F. Kennedy, vice president	Who was John F. Kennedy's vice president?	no	Correct answer	602
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	120	subsidiary, Lufthansa, serve, Dortmund, Berlin Tegel	Which subsidiary of Lufthansa serves both Dortmund and Berlin Tegel?	no	Wrong answer	1672
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	121	John F. Kennedy, successor	Who was the successor of John F. Kennedy?	no	Correct answer	561
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	122	compose, soundtrack, Cameron's Titanic	Who composed the soundtrack for Cameron's Titanic?	no	Wrong answer	564
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	125	time zone, Rome	In which time zone is Rome?	no	Wrong answer	568
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	126	currency, China	Give me the currency of China.	no	Wrong answer	563
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	127	developers, DBpedia	Who are the developers of DBpedia?	no	Correct answer	809
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	129	king, the Netherlands	Who is the king of the Netherlands?	no	Wrong answer	567
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	130	city, Nikos Kazantzakis, die	In which city did Nikos Kazantzakis die?	no	Wrong answer	561
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	132	list, critically endangered birds	Give me a list of all critically endangered birds.	no	Wrong answer	561
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	133	inhabitants, largest city, Canada	How many inhabitants does the largest city in Canada have?	no	Wrong answer	567
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	134	Lawrence of Arabia, military conflict	In which military conflicts did Lawrence of Arabia participate?	no	Wrong answer	613
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	136	Nile, start, country	In which country does the Nile start?	no	Wrong answer	682
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	138	companies, produce, hovercrafts	Which companies produce hovercrafts?	no	Wrong answer	579
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	140	city, born, president of Montenegro	In which city was the president of Montenegro born?	no	Wrong answer	564
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	141	country, born, Bill Gates	Which country was Bill Gates born in?	no	Wrong answer	605
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	142	which countries, speak, Japanese	In which countries do people speak Japanese?	no	Wrong answer	774
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	143	book, wrote, Muhammad Ali	Show me the book that Muhammad Ali wrote.	no	Correct answer	579
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	145	Berlin, area code	What is the area code of Berlin?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	146	actor, starring, Last Action Hero	Give me all actors starring in Last Action Hero.	no	Wrong answer	711
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	147	San Francisco, nickname	What are the nicknames of San Francisco?	no	Wrong answer	559
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	150	television show, create, Walt Disney	Which television shows were created by Walt Disney?	no	Wrong answer	569
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	152	country, Sitecore	What country is Sitecore from?	no	Wrong answer	617
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	153	wife, Lance Bass	Whom did Lance Bass marry?	no	Correct answer	553
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	154	capital, Canada	What is the capital of Canada?	no	Wrong answer	653
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	155	person, inspiring, Vincent van Gogh	Who was Vincent van Gogh inspired by?	no	Correct answer	600
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	156	city, John F. Kennedy, die	In which city did John F. Kennedy die?	no	Wrong answer	562
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	158	writer, Game of Thrones	Who wrote the Game of Thrones theme?	no	Wrong answer	831
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	159	Brooklyn Bridge, design	Who designed the Brooklyn Bridge?	no	Wrong answer	640
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	160	Boris Becker, end career	When did Boris Becker end his active career?	no	Wrong answer	553
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	161	grape types, grow, Oregon	Which types of grapes grow in Oregon?	no	Wrong answer	560
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	162	tall, Michael Jordan	How tall is Michael Jordan?	no	Correct answer	555
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	163	party, mayor, Paris, belong	To which party does the mayor of Paris belong?	no	Wrong answer	564
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	164	wrote, book, The pillars of the Earth	Who wrote the book The Pillars of the Earth?	no	Wrong answer	640
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	165	United States, 16th president	Who was the 16th president of the United States?	no	Wrong answer	670
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	166	Mount Everest, high	How high is the Mount Everest?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	167	doctoral supervisor, Albert Einstein	Who was the doctoral supervisor of Albert Einstein?	no	Correct answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	168	city, live, Sylvester Stallone	In which city does Sylvester Stallone live?	no	Wrong answer	560
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	169	Czech republic, currency	What is the currency of the Czech Republic?	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	172	son, Sonny and Cher	Who is the son of Sonny and Cher?	no	Correct answer	555
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	173	city, headquarters of the United Nations	In which city are the headquarters of the United Nations?	no	Wrong answer	567
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	174	founder, Penguin Books	Who is the founder of Penguin Books?	no	Correct answer	560
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	175	Jack Wolfskin, founded	When was Jack Wolfskin founded?	no	Wrong answer	600
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	176	mayor, Rotterdam	Who is the mayor of Rotterdam?	no	Wrong answer	550
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	177	Swedish, oceanographer	Give me all Swedish oceanographers.	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	178	autobiography, Hemingway	Show me Hemingway's autobiography.	no	Correct answer	563
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	179	Juan Carlos I, wife, parents	Who are the parents of the wife of Juan Carlos I?	no	Wrong answer	558
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	184	parents, Queen Victoria	Who were the parents of Queen Victoria?	no	Correct answer	809
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	189	Fort Knox, located	Where is Fort Knox located?	no	Wrong answer	594
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	191	where, Syngman Rhee, buried	Where is Syngman Rhee buried?	no	Correct answer	554
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	192	timezone, San Pedro de Atacama	What is the timezone in San Pedro de Atacama?	no	Correct answer	552
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	193	artistic movement, painter, The Three Dancers	To which artistic movement did the painter of The Three Dancers belong?	no	Wrong answer	648
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	194	scientist, known for, Manhattan Project, Nobel Peace Prize	Which scientist is known for the Manhattan Project and the Nobel Peace Prize?	no	Wrong answer	632
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	195	books, Asimov, Foundation series	Show me all books in Asimov's Foundation series.	no	Wrong answer	551
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	198	high, Yokohama Marine Tower	How high is the Yokohama Marine Tower?	no	Wrong answer	564
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	201	video game, World of Warcraft, develop	Who developed the video game World of Warcraft?	no	Wrong answer	556
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	202	pope, founded, Vatican Television	Who was the pope that founded the Vatican Television?	no	Wrong answer	691
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	203	Harold and Maude, compose, music	Who composed the music for Harold and Maude?	no	Wrong answer	853
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	204	member, Prodigy	Give me all members of Prodigy.	no	Wrong answer	554
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	205	starring, Spanish movies, produced, Benicio del Toro	Who is starring in Spanish movies produced by Benicio del Toro?	no	Wrong answer	2440
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	206	subsidiary, TUI Travel, serve, Glasgow, Dublin	Which subsidiary of TUI Travel serves both Glasgow and Dublin?	no	Wrong answer	813
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	207	country, located, Mecca	In which country is Mecca located?	no	Correct answer	791
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	210	professional surfer, born, Philippines	Which professional surfers were born on the Philippines?	no	Wrong answer	612
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	211	five boroughs, New York	What are the five boroughs of New York?	no	Wrong answer	656
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	213	date, princess Diana, died	When did princess Diana die?	no	Wrong answer	604
+B	english_dbpedia_synonyms	qald-7-train-multilingual.json	214	produced, France, sparkling wine	Where in France is sparkling wine produced?	no	Wrong answer	572
